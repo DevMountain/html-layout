@@ -1,0 +1,33 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+.column {
+	width:33.33%;
+	height: 100%;
+}
+
+.left {
+	background: #4a90e2;
+	float: left;
+}
+
+.center {
+	background: #50e3c2;
+	float: left;
+}
+
+.right {
+	background: #b8e986;
+	float: right;
+}
+
+.image {
+	background: url(http://picbook.in/wp-content/uploads/2014/07/sunset_sky_by_koko-stock_.jpg);
+	width:100%;
+	height: 30%;
+	position: absolute;
+	bottom: 0;
+}
