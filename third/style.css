@@ -1,0 +1,56 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+.header {
+	background: #d8d8d8;
+	width: 100%;
+	height: 90px;
+	margin: 0px;
+	padding: 10px 0px 10px 30px;
+}
+
+.logo {
+	background: #4a90e2;
+	height: 80px;
+	width: 80px;	
+}
+
+.paragraph {
+	font-family: Arial;
+	font-size: 20px;
+	padding: 50px 30px 70px 30px;
+}
+
+.box {
+	width: 100%;
+	height: 120px;
+	margin: 0px;	
+}
+
+
+.blue {
+	background: #4a90e2;
+}
+
+.teal {
+	background: #50e3c2;
+}
+
+.green {
+	background: #b8e986;
+}
+
+.yellow {
+	background: #f8e71c;
+}
+
+
+
+
+
+
+
+
