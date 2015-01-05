@@ -15,7 +15,7 @@ Fork this repo then clone your fork onto your local machines. Inside each folder
     - ul
     - li
     - div
-* Understand and be able to use the following CSS properties
+ * Understand and be able to use the following CSS properties
     - id (#) vs class(.) and specificity
     - width px && %
     - height px && %
