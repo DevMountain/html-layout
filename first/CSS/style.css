@@ -1,0 +1,37 @@
+html, body {
+	height: 100%;
+}
+
+.header_block {
+	height: 15%;
+	width: 100%;
+	background: rgb(84, 82, 81);
+	clear: both;
+}
+
+.verticle_bar {
+	height:80%;
+	width: 15%;
+	background: rgb(201, 201, 201);
+	float: left;
+}
+
+.main {
+	height: 80%;
+	width: 70%;
+	float: left;
+}
+
+.content {
+	height: 90%;
+	width: 100%;
+	background: rgb(255, 255, 255);
+	float: left;
+}
+
+.footer_block {
+	height: 100%;
+	background: rgb(63, 62, 61);
+	
+
+}
