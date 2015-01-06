@@ -1,0 +1,33 @@
+html, body{
+	height: 100%;
+}
+
+.first{
+	background-color: #4A90E2;
+	height: 100%;
+	width: 34%;
+	float: left;
+}
+
+.second{
+	background-color: #50E3C2;
+	height: 100%;
+	width: 33%;
+	float: left;
+}
+
+.third{
+	background-color: #B8E986;
+	height: 80%;
+	width: 33%;
+	float: left;
+}
+
+.image{
+	background-image: url("http://www.centurynovelty.com/catImages/163-575_small.jpg");
+	background-color: #D0021B;
+	height: 20%;
+	width: 33%;
+	float: right;
+	float: bottom;
+}
