@@ -1,0 +1,33 @@
+html, body {
+	height: 100%;
+}
+
+.blue {
+	height: 100%;
+	width: 33%;
+	background: rgb(61, 129, 142);
+	float: left;	
+}
+
+.aqua {
+	height: 100%;
+	width: 33%;
+	background: rgb(50, 193, 174);
+	float: left;
+}
+
+.green {
+	height: 75%;
+	width: 33%;
+	background: rgb(29, 211, 123);
+	float: left;
+}
+
+.hold_img {
+	height: 25%;
+	width: 33%;
+	background: rgb(255, 0, 0);
+	float: left;
+	text-align: center;
+	
+}
