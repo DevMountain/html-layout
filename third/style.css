@@ -1,0 +1,21 @@
+html, body {
+	height: 100%;
+}
+
+.header_bar {
+	height: 150px;
+	width:100%;
+	background: rgb(196, 188, 184);
+}
+
+.horiz_bar {
+	height: 150px;
+	width:100%;
+	background: rgb(196, 188, 184);
+}
+
+.content {
+	height: 300px;
+	width: 100%;
+
+}
