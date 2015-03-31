@@ -9,8 +9,13 @@ html, body {
 	
 	clear: right;
 }
+.regtext p {
+	margin: 30px 20px;
+	font-size: 25px;
+	font-family: arial;
+}
 .greybar {
-	background-color: grey;
+	background-color: #D8D8D8;
 	height: 15%;
 	width: 100%;
 	
@@ -20,32 +25,32 @@ html, body {
 	height: 10%;
 	width: 10%;
 	margin: 15px;
-	position: fixed;
-	background-color: blue;
+	position: absolute;
+	background-color: #4A90E2;
 }
 .bluebar {
-	background-color: blue;
+	background-color: #4A90E2;
 	height: 15%;
 	width: 100%;
 	
 	clear: right;
 }
 .skybluebar {
-	background-color: skyblue;
+	background-color: #50E3C2;
 	height: 15%;
 	width: 100%;
 	
 	clear: right;
 }
 .lightgreenbar {
-	background-color: green;
+	background-color: #B8E986;
 	height: 15%;
 	width: 100%;
 	
 	clear: right;
 }
 .yellowbar {
-	background-color: yellow;
+	background-color: #F8E71C;
 	height: 15%;
 	width: 100%;
 	
