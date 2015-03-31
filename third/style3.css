@@ -1,0 +1,53 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+}
+
+.regtext {
+	height: 25%;
+	
+	clear: right;
+}
+.greybar {
+	background-color: grey;
+	height: 15%;
+	width: 100%;
+	
+	clear: right;
+}
+.innerbox {
+	height: 10%;
+	width: 10%;
+	margin: 15px;
+	position: fixed;
+	background-color: blue;
+}
+.bluebar {
+	background-color: blue;
+	height: 15%;
+	width: 100%;
+	
+	clear: right;
+}
+.skybluebar {
+	background-color: skyblue;
+	height: 15%;
+	width: 100%;
+	
+	clear: right;
+}
+.lightgreenbar {
+	background-color: green;
+	height: 15%;
+	width: 100%;
+	
+	clear: right;
+}
+.yellowbar {
+	background-color: yellow;
+	height: 15%;
+	width: 100%;
+	
+	clear: right;
+}
