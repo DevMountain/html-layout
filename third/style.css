@@ -1,0 +1,55 @@
+* {
+	box-sizing: border-box;
+}
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+div {
+	width: 100%;
+	height: 15%;
+}
+
+.row1 {
+	background-color: #D8D8D8;
+}
+
+.row2 {
+	background-color: #FFFFFF;
+	height: 25%;
+	padding: 20px 0 0 0;
+}
+
+.row3 {
+	background-color: #4A90E2;
+}
+
+.row4 {
+	background-color: #50E3C2;
+}
+
+.row5 {
+	background-color: #B8E986;
+}
+
+.row6 {
+	background-color: #F8E71C;
+}
+
+.blueSquare {
+	width: 90px;
+	height: 75%;
+	margin: 10px 25px;
+	background-color: #4A90E2;
+	float: left;
+}
+
+p {
+	font-size: 20px;
+	padding: 30px;
+	height: 20%;
+	margin: 0;
+	font-family: Helvetica Neue, Cambria;
+}
