@@ -7,23 +7,22 @@ html, body {
 	margin: 0;
 }
 
-div {
+.section {
 	height: 100%;
-	float: left
+	float: left;
+	width: 33.33%;
 }
 
 .lefted {
-	width: 33%;
+	
 	background-color: #4A90E2;
 }
 
 .centered {
-	width: 34%;
 	background-color: #50E3C2;
 }
 
 .righted {
-	width: 33%;
 	background-color: #B8E986;
 }
 
