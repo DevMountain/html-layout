@@ -35,6 +35,9 @@ div {
 }
 h1 {
 	text-align: center;
-	line-height: 120px;
+	display: inline-block;
+	margin-top: 15%;
+	margin-left: 20%;
 	color: #fff;
+	font-size: 2rem;
 }
