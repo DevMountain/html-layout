@@ -1,0 +1,36 @@
+*{
+	margin:0;
+	padding:0;
+}
+html,body{
+	height:100%;
+}
+.left{
+	height:100%;
+	width:33.33%;
+	background-color: #4592DC;
+	float:left;
+}
+.center{
+	height:100%;
+	width:33.33%;
+	background-color: #3CE3C4;
+	float:left;
+}
+.right{
+	height:80%;
+	width:33.33%;
+	background-color: #B5E892;
+	float:left;
+}
+.image{
+	background-color: #D40021;
+	float:left;
+	height:20%;
+	width:33.33%;
+	padding-top:75px;
+}
+h1{
+	text-align:center;
+	color: white;
+}
