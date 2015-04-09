@@ -1,0 +1,32 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+html, body {
+	height: 100%
+}
+.flex-box {
+	display: flex;
+	flex-direction: row;
+}
+.align {
+	align-self: auto;
+}
+.green {
+	background-color: green;
+}
+.red {
+	background-color: red;
+}
+.blue {
+	background-color: blue;
+}
+div {
+	height: 100%;
+	width: 100%;
+}
+.small-div {
+	width: 100%;
+	height: 20%;
+	margin-top: 33.93rem;
+}

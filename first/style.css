@@ -1,18 +1,23 @@
+*, html, body {
+	margin: 0;
+	padding: 0;
+}
 html {
-	height: 100%
+	height: 600px;
 }
 body {
+	height: 100%;
+}
+.container {
 	height: 100%;
 }
 .row {
 	width: 100%;
 	height: 8.25rem;
 }
-.grey {
-	background-color: grey;
-}
-.black {
-	background-color: #000;
+.column {
+	height: 20px;
+	width: 20%;
 }
 .column-one {
 	width: 20%;
@@ -42,4 +47,10 @@ body {
 }
 .margin-center {
 	margin: auto;
+}
+.grey {
+	background-color: #ccc;
+}
+.black {
+	background-color: #000;
 }
