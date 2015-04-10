@@ -1,0 +1,21 @@
+.grey {
+	background-color: #ccc;
+}
+.dark-grey {
+	background-color: grey;
+}
+.blue {
+	background-color: rgb(69, 140, 225);
+}
+.green {
+	background-color: rgb(75, 226, 190);
+}
+.light-green {
+	background-color: rgb(75, 200, 200);
+}
+.yellow {
+	background-color: rgb(181, 232, 129);	
+}
+.small-div {
+	height: 13.333%
+}
