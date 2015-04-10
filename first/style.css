@@ -1,0 +1,56 @@
+*, html, body {
+	margin: 0;
+	padding: 0;
+}
+html {
+	height: 600px;
+}
+body {
+	height: 100%;
+}
+.container {
+	height: 100%;
+}
+.row {
+	width: 100%;
+	height: 8.25rem;
+}
+.column {
+	height: 20px;
+	width: 20%;
+}
+.column-one {
+	width: 20%;
+	height: 100%;
+}
+.column-two {
+	width: 40%;
+	height: 25%;
+}
+.column-three {
+	width: 60%;
+	height: 100%;
+}
+.column-four {
+	width: 80%;
+	height: 100%;
+}
+.column-five {
+	width: 100%;
+	height: 100%;
+}
+.right {
+	float: right;
+}
+.inline-block {
+	display: inline-block;
+}
+.margin-center {
+	margin: auto;
+}
+.grey {
+	background-color: #ccc;
+}
+.black {
+	background-color: #000;
+}

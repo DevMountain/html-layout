@@ -1,0 +1,43 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+html, body {
+	height: 100%
+}
+.flex-box {
+	display: flex;
+	flex-direction: row;
+}
+.align {
+	align-self: auto;
+}
+.blue {
+	background-color: rgb(69, 140, 225);
+}
+.green {
+	background-color: rgb(75, 226, 190);
+}
+.yellow {
+	background-color: rgb(181, 232, 129);
+}
+.red {
+	background-color: rgb(206, 4, 23);
+}
+div {
+	height: 100%;
+	width: 100%;
+}
+.small-div {
+	width: 100%;
+	height: 20%;
+	margin-top: 80.00vh;
+}
+h1 {
+	text-align: center;
+	display: inline-block;
+	margin-top: 15%;
+	margin-left: 20%;
+	color: #fff;
+	font-size: 2rem;
+}
