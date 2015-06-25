@@ -1,0 +1,50 @@
+html,body	{
+	height: 100%;
+	width: 100%;
+}
+
+div	{
+	width: 100%;
+	height: 150px;
+	float: left;
+}
+
+.par	{
+	height: 300px;
+}
+
+p	{
+	padding: 65px 60px 65px 60px;
+	font-size: 24px;
+	font-family: sans-serif;
+}
+
+header	{
+	background-color: #D8D8D8;
+	height: 124px;
+	width: 100%;
+}
+
+#ProfilePic	{
+	height: 100px;
+	width: 100px;
+	margin-top: 12px;
+	margin-left: 30px;
+	background-color: #4A90E2;
+}
+
+.blue	{
+	background-color: #4A90E2;
+}
+
+.aqua	{
+	background-color: #50E3C2;
+}
+
+.teal	{
+	background-color: #B8E986;
+}
+
+.gold	{
+	background-color: #F8E71C;
+}
