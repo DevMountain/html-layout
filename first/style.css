@@ -1,0 +1,31 @@
+body {
+	margin:0;
+}
+.main {
+	display: inline;
+	background-color:#FAFAFA;
+	height:1000px;
+}
+.top {
+	background-color:#424242;
+	height:30%;
+	width:100%;
+}
+.left-side {
+	background-color:#E6E6E6;
+	height:70%;
+	width:10%;
+}
+.right-side {
+	background-color:#E6E6E6;
+	height:20%;
+	width:10%;
+	vertical-align:right;
+}
+.clear {
+	clear:both;
+}
+.bottom {
+	background-color:#000000;
+	height:20%;
+}
