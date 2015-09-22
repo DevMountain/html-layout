@@ -6,7 +6,31 @@
 
 .header {
 	
-	height:20px;
+	height:200px;
 	background: gray;
 	
+}
+
+.sideL {
+
+	height: 500px;
+	width: 100px;
+	background: Lightgray;
+	
+}
+
+.sideR {
+	height: 500px;
+	width: 100px;
+	background: lightgray;
+}
+
+
+.bottom {
+	height: 100px;
+	background: black;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-top; 50px;
+
 }
