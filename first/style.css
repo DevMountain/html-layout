@@ -1,36 +1,32 @@
 
-* { 
-	border: 1px solid red;
-
-}
-
 .header {
 	
 	height:200px;
-	background: gray;
+	background: #808080;
 	
 }
 
 .sideL {
 
-	height: 500px;
-	width: 100px;
-	background: Lightgray;
+	height: 600px;
+	width: 200px;
+	background: #E6E6E6;
+	float: left;
+	
 	
 }
 
 .sideR {
-	height: 500px;
+	height: 600px;
 	width: 100px;
-	background: lightgray;
+	background: #E6E6E6;
+	float: right;
 }
 
 
 .bottom {
 	height: 100px;
-	background: black;
-	margin-right: 100px;
-	margin-left: 100px;
-	margin-top; 50px;
-
+  background: #333333;
+  margin: 500px 100px 0px 200px;
+  
 }
