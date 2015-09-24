@@ -1,41 +1,60 @@
-html, body {
-	margin: 0px;
-	padding: 0px;
+body, html {
 	height: 100%;
+	padding: 0;
+	margin: 0;
+	background-color: #DCDCDC;
+}
+
+body > * {
+	padding: 0;
+	margin: 0;
 }
 
 .container {
-	position: relative;
-	min-height: 100%;
+	display: flex;
+	height: 100%;
+	
+	flex-flow: row wrap;
 }
 
 .header {
-	height: 100px;
 	background-color: rgb(68, 68, 68);
+	height: 20%;
+	min-height: 100px;
+	max-height: 100px;
+	width: 100%;
+	flex: 1 auto;
+
 	padding: 10px;
+	
+	display: flexbox;
+}
+
+.filler {
+	width: 15%;
+	display: flexbox;
 }
 
 .content {
-	
 	background-color: rgb(239, 239, 239);
-	margin-left: 10%;
-	margin-right: 10%;
-	width: 80%;
-	height: 450px;
-	padding-bottom: 60px;
-	position: relative;
+	flex: 1 auto;
+	width: 70%;
+	min-height: 72%;
+	align-self: flex-start;
+	/*flex-direction: column;*/
+	/*flex-wrap: wrap;*/
+	
+	display: flexbox;
 }
 
 .footer {
-	height: 60px;
-	width: 80%;
-	margin-left: 10%;
-	margin-right: 10%;
 	background-color: rgb(34, 34, 34);
-	bottom: 0;
-	position: absolute;
-}
-
-body {
-	background-color: #DCDCDC;
+	flex: 1 auto;
+	min-height: 60px;
+	max-height: 60px;
+	height: 10%;
+	width: 70%;
+	
+	display: flexbox;
+	align-self: flex-end;
 }
