@@ -1,0 +1,41 @@
+html, body {
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+}
+
+.container {
+	position: relative;
+	min-height: 100%;
+}
+
+.header {
+	height: 100px;
+	background-color: rgb(68, 68, 68);
+	padding: 10px;
+}
+
+.content {
+	
+	background-color: rgb(239, 239, 239);
+	margin-left: 10%;
+	margin-right: 10%;
+	width: 80%;
+	height: 450px;
+	padding-bottom: 60px;
+	position: relative;
+}
+
+.footer {
+	height: 60px;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: rgb(34, 34, 34);
+	bottom: 0;
+	position: absolute;
+}
+
+body {
+	background-color: #DCDCDC;
+}
