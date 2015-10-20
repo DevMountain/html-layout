@@ -1,0 +1,47 @@
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+.div-1 {
+	width: 33.3%;
+	height: 100%;
+	background-color: skyblue;
+	float: left;
+	display: inline-block;
+}
+
+.div-2 {
+	width: 33.3%;
+	height: 100%;
+	background-color: turquoise;
+	display: inline-block;
+}
+
+.div-3 {
+	width: 33.3%;
+	height: 100%;
+	display: inline-block;
+	float: right;
+	background-color: blue;
+	text-align: center;
+	position: relative;
+}
+
+.div-top {
+	width: 100%;
+	height: 80%;
+	background-color: gold;
+}
+
+.div-bot {
+	width: 100%;
+	height: 20%;
+	background-color: red;
+	position: absolute;
+}
+
+p {
+	color: white;
+	font-size: 2em;
+}
