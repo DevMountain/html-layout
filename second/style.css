@@ -24,7 +24,6 @@ html, body {
 	display: inline-block;
 	float: right;
 	background-color: blue;
-	text-align: center;
 	position: relative;
 }
 
@@ -39,9 +38,13 @@ html, body {
 	height: 20%;
 	background-color: red;
 	position: absolute;
+	bottom: 0;
+	right: 0;
+	text-align: center;
 }
 
 p {
 	color: white;
 	font-size: 2em;
+	margin: 45px;
 }
