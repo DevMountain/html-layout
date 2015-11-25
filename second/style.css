@@ -1,0 +1,40 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background: #D8D8D8;
+}
+
+.column-left {
+    background: #4a90e2;
+    width: 33%;
+    height: inherit;
+    float: left;
+}
+
+.column-middle {
+    background: #50e3c2;
+    width: 34%;
+    height: inherit;
+    float: left;
+}
+
+.column-right {
+    background: #b8e986;
+    width: 33%;
+    height: 80%;
+    float: right;
+}
+
+.red-box {
+    background: #d0021b;
+    height: 20%;
+    width: 33%;
+    float: left;
+    clear: right;
+    color: white;
+    text-align: center;
+    font:  30px Helvetica;
+    padding: 5% 0 0;
+    box-sizing: border-box;
+}
