@@ -1,0 +1,43 @@
+* {
+	box-sizing: border-box;
+}
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+.section {
+	height: 100%;
+	float: left;
+	width: 33.33%;
+}
+
+.lefted {
+	
+	background-color: #4A90E2;
+}
+
+.centered {
+	background-color: #50E3C2;
+}
+
+.righted {
+	background-color: #B8E986;
+}
+
+.container {
+	width: 100%;
+	height: 75%;
+	background: transparent;
+}
+
+.imagePlaceholder {
+	height: 25%;
+	width: 100%;
+	background-color: #f2090d;
+	padding: 5%;
+	color: #FFFFFF;
+	font-size: 30px;
+	text-align: center;
+}
