@@ -1,0 +1,47 @@
+
+#container1 {
+	position: relative;
+	float: left;
+	height: 800px;
+	width: 100%;
+}
+
+#container2 {
+	position: relative;
+	float: left;
+	width: 33.3%;
+	height: 100%;
+}
+
+#container2 img {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	height: 200px;
+	width: 100%;
+}
+
+#left {
+	position: relative;
+	float: left;
+	width: 33.3%;
+	height: 100%;
+	background-color: #66ccff;
+}
+
+#center {
+	position: relative;
+	float: left;
+	width: 33.3%;
+	height: 100%;
+	background-color: #00ffff;
+}
+
+#right {
+	position: relative;
+	float: left;
+	height: 100%;
+	width: 100%;
+	background-color: #ffff99;
+}
+
