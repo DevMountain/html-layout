@@ -1,0 +1,49 @@
+.header {
+	height: 126px;
+	width:1004px;
+	background-color: #D8D8D8;
+	padding-left: 20px;
+	padding-top: 20px;
+
+}
+.block {
+	background-color: #4A90E2;
+	height:100px;
+	width:100px;
+}
+
+.words {
+	height: 233px;
+	width:1024px;
+}
+
+.words p {
+	font-size: 26px;
+	line-height: 100%;
+	padding: 25px 35px 35px 35px;
+	font-family: Tahoma;
+}
+
+.dblue {
+	height: 146px;
+	width:1024px;
+	background-color: #4A90E2;
+}
+
+.lblue {
+	height: 146px;
+	width:1024px;
+	background-color: #50E3C2;
+}
+
+.green {
+	height: 146px;
+	width:1024px;
+	background-color: #B8E986;
+}
+
+.yellow {
+	height: 146px;
+	width:1024px;
+	background-color: #F8E71C;	
+}
