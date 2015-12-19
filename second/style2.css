@@ -1,0 +1,39 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+#blue {
+	height: 100%;
+	width: 33%;
+	margin-left: -7px;
+	margin-bottom: -10px;
+	margin-top: -7px;
+	background-color: #0070bb;
+	display: inline-block;
+}
+#turquoise {
+	height: 100%;
+	width: 33%;
+	margin-left: -7px;
+	margin-bottom: -10px;
+	margin-top: -7px;
+	background-color: #00ffdd;
+	display: inline-block;
+}
+#limegreen {
+	height: 100%;
+	width: 33%;
+	margin-left: -7px;
+	margin-bottom: -10px;
+	margin-top: -7px;
+	background-color: #aaff80;
+	display: inline-block;
+	position: relative;
+}
+#photobox {
+	height: 25%;
+	width: 100%;
+	background-color: #dd1111;
+	position: absolute;
+	margin-top: 112%;
+}

@@ -1,0 +1,49 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+#header {
+	background-color:#dddddd;
+	height: 10%;
+	width: 100%;
+	position: relative;
+	clear: both;
+}
+#square {
+	background-color:#0099dd;
+	height: 80%;
+	width: 4%;
+	position: absolute;
+	margin-top: 0.5%;
+	margin-left: 1%;
+}
+#message {
+	background-color:#ffffff;
+	height: 30%;
+	width: 100%;
+	clear: both;
+
+}
+#blue {
+	background-color:#0099dd;
+	height: 15%;
+	width: 100%;
+	clear: both;
+}
+#turquoise {
+	background-color:#00ddaa;
+	height: 15%;
+	width: 100%;
+	clear: both;
+}
+#limegreen {
+	background-color:#88e066;
+	height: 15%;
+	width: 100%;
+	clear: both;
+}
+#yellow {
+	background-color:#ffff00;
+	height: 15%;
+	width: 100%;
+	clear: both;
