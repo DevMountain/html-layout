@@ -1,0 +1,58 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+}
+
+.regtext {
+	height: 25%;
+	
+	clear: right;
+}
+.regtext p {
+	margin: 30px 20px;
+	font-size: 25px;
+	font-family: arial;
+}
+.greybar {
+	background-color: #D8D8D8;
+	height: 15%;
+	width: 100%;
+	
+	clear: right;
+}
+.innerbox {
+	height: 10%;
+	width: 10%;
+	margin: 15px;
+	position: absolute;
+	background-color: #4A90E2;
+}
+.bluebar {
+	background-color: #4A90E2;
+	height: 15%;
+	width: 100%;
+	
+	clear: right;
+}
+.skybluebar {
+	background-color: #50E3C2;
+	height: 15%;
+	width: 100%;
+	
+	clear: right;
+}
+.lightgreenbar {
+	background-color: #B8E986;
+	height: 15%;
+	width: 100%;
+	
+	clear: right;
+}
+.yellowbar {
+	background-color: #F8E71C;
+	height: 15%;
+	width: 100%;
+	
+	clear: right;
+}

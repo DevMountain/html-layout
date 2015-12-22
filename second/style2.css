@@ -1,0 +1,47 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+}
+.first {
+	background-color: blue;
+	width: 33%;
+	height: 100%;
+	float: left;
+	margin: 0px;
+
+
+}
+.second {
+	background-color: teal;
+	width: 33%;
+	height: 100%;
+	float: left;
+	margin: 0px;
+
+
+}
+.third {
+	background-color: lightgreen;
+	width: 33%;
+	height: 75%;
+	float: left;
+	margin: 0px;
+
+}
+.fourth {
+	background-color: red;
+	height: 25%;
+	width: 33%;
+	float: left;
+	margin: 0px;
+	text-align: center;
+
+}
+.fourth p {
+	margin: 30%;
+	font-size: 20px;
+	font-family: Arial;
+	color: white;
+
+}

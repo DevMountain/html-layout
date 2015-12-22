@@ -1,0 +1,23 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+}
+header {
+	background-color: #000000;
+	height: 15%;
+	margin: 0px;
+}
+div {
+	background-color: #ffffff;
+	height: 70%;
+	margin: 0px 15%;
+}
+body {
+	background-color: #777777;
+}
+footer {
+	background-color: #000000;
+	height: 15%;
+	margin: 0px 15%;
+}	
