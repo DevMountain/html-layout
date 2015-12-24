@@ -1,0 +1,34 @@
+/*This is a very basic reset that elements any broweser default settings*/
+*{
+	margin: 0;
+	padding: 0;
+}
+html,body{
+	height:100%;
+	background-color:#000000;
+}
+.top{
+	background-color: #3C3C3C;
+	height: 25%;
+}
+.center{
+	background-color:#ECECEC;
+	height:50%;
+	width:60%;
+	float:left;
+}
+.sides{
+	background-color: #D2D2D2;
+	height:75%;
+	width:20%;
+}
+.bottom{
+	background-color: #000000;
+	height:25%;
+}
+.right{
+	float:left;
+}
+.left{
+	float:left;
+}
