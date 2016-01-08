@@ -1,0 +1,23 @@
+div {
+  height: 50px;
+  width: 50px;
+  display: inline-block;
+}
+.left {
+  height: 500px;
+  width: 300px;
+  background: #33ADFF;
+}
+
+.middle {
+  height: 500px;
+  width: 300px;
+  background: #78ffff;
+ 
+}
+
+.right {
+  height: 500px;
+  width: 300px;
+  background: #FFFF99;
+}

@@ -1,0 +1,32 @@
+
+.header {
+	
+	height:200px;
+	background: #808080;
+	
+}
+
+.sideL {
+
+	height: 600px;
+	width: 200px;
+	background: #E6E6E6;
+	float: left;
+	
+	
+}
+
+.sideR {
+	height: 600px;
+	width: 100px;
+	background: #E6E6E6;
+	float: right;
+}
+
+
+.bottom {
+	height: 100px;
+  background: #333333;
+  margin: 500px 100px 0px 200px;
+  
+}
