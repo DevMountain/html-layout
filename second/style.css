@@ -1,0 +1,43 @@
+body {
+  margin: 0 auto;
+}
+.right {
+  background-color: #a7ee90;
+  height:823.9px;
+  width:341.3px;
+  float:left;
+  margin: 0;
+}
+.middle {
+  background-color:  #80ffe0;
+  height: 1024px;
+  width: 341.3px;
+  float: left;
+  margin:0;
+}
+.left {
+  background-color:  #4d79ff;
+  height: 1024px;
+  width: 341.3px;
+  float: left;
+  margin: 0;
+}
+.picture {
+  background-color: #cc0000;
+  height: 200px;
+  width: 341.3px;
+  margin-left: 682.6px;
+  margin-top: -200px;
+  color: white;
+  float: left;
+  text-align:center;
+  vertical-align: middle;
+  line-height: 200px;
+  font-size: 30px;
+  font-family: sans-serif;
+
+}
+/*height: 100%;
+width: 100%;
+padding: 0%;
+margin: 0%;
