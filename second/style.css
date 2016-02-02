@@ -1,0 +1,49 @@
+html, body {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
+.main-container {
+	height: 100vh;
+	width: 100%;
+	background-color: #eee8cd;
+}
+
+.left {
+	height: 100vh;
+	width: 33%;
+	float: left;
+	position: fixed;
+	margin: auto;
+	background-color: #6495ed;
+}
+
+.right {
+	height: 100vh;
+	width: 33%;
+	float: right;
+	position: relative;
+	margin: auto;
+	background-color: #fff68f;
+}
+
+.image {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 100%;
+	height: 140px;
+	z-index: 0;
+	background-color: red;
+}
+
+h3 {
+	text-align: center;
+	color: white;
+	padding-top: 18%;
+}
