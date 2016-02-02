@@ -1,0 +1,28 @@
+html, body {
+  height:100%;
+  width:100%;
+  background-color: #00ffcc;
+}
+#left {
+  background-color: #66a3ff;
+  height: 110%;
+  width: 33%;
+  float: left;
+  position: fixed;
+  top: -10px;
+  left: -10px;
+}
+
+#right {
+  background-color: #ffff80;
+  height: 110%;
+  width: 33%;
+  position: relative;
+  float: right;
+  top: -10px;
+}
+img {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
