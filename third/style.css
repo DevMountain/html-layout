@@ -1,0 +1,57 @@
+* {
+	height: 100%;
+	box-sizing: border-box;
+	padding: 0;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+.rows {
+	width: 100%;
+}
+
+.equalRows {
+	height: 14%;
+}
+
+.mainRow {
+	height: 30%;
+}
+
+.row1 {
+	background-color: gray;
+	position: relative;
+}
+
+.blueBox {
+	background-color: blue;
+	position: absolute;
+	left: 20px;
+	top: 20px;
+	height: 50px;
+	width: 50px;
+}
+
+p {
+	margin: 5%;
+}
+
+.row3 {
+	background-color: blue;
+}
+
+.row4 {
+	background-color: green;
+}
+
+.row5 {
+	background-color: lime;
+}
+
+.row6 {
+	background-color: yellow;
+}
