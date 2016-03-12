@@ -1,0 +1,31 @@
+* {
+	background-color: #d8d8d8;
+	margin: 0;
+}
+
+/*basic skeleton*/
+
+div.top{
+	width: 100%;
+	background-color: #444;
+}
+
+div.main {
+	background-color: white;
+	height: 70em;
+}
+
+div.bottom{
+	background-color: #222;
+}
+
+/*basic formating*/
+
+.bar {
+	height: 10em;
+}
+
+.centered {
+	width: 60%;
+	margin: 0 auto;
+}
