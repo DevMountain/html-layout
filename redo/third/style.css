@@ -1,0 +1,49 @@
+* {
+	margin: 0;
+}
+
+/*format*/
+
+div.row {
+	height: 150px;
+	width: 100%;
+}
+
+div.textBox {
+	height: 300px;
+	width: 100%;
+}
+
+div.top{
+	position: relative;
+}
+
+div.box{
+	position: absolute;
+	margin: 25px;
+	height:100px;
+	width: 100px;
+}
+
+/*color scheme*/
+
+.blue {
+	background-color: #4a90e2;
+}
+
+.gray {
+	background-color: #d8d8d8;
+}
+
+.aqua {
+	background-color: #50e3c2;
+}
+
+.lime {
+	background-color: #b8e986;
+}
+
+.yellow {
+	background-color: #f8e71c;
+}
+
