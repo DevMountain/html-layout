@@ -1,0 +1,40 @@
+html, body {
+    margin:0;
+    padding:0;
+    height: 1024px;
+}
+
+#container {
+    height: 1024px;
+}
+
+.column {
+    float: left;
+    width: 33.33333%;
+    height: 100%;
+}
+
+#left {
+    background-color: #4A90E2;
+}
+
+#center {
+    background-color: #50E3C2;
+}
+
+#right {
+    background-color: #B8E986;
+    height: 90%;
+}
+
+#image {
+    float: right;
+    width: 33.3333%;
+    height: 10%;
+    background-color: #D0021B;
+    text-align: center;
+    line-height: 102.4px;
+    color: white;
+    font-family: arial;
+    font-size: 20px;
+}
