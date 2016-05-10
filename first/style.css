@@ -1,0 +1,39 @@
+.main-header {
+  height: 25vh;
+  width: 100%;
+  background: #000;
+  margin-bottom: 2px;
+}
+
+.left-side {
+  height: 200vh;
+  width: 9.5%;
+  background: gray;
+  display: inline-block;
+}
+
+.center {
+  height: 200vh;
+  width: 80%;
+  background: green;
+  display: inline-block;
+}
+
+.right-side {
+  height: 200vh;
+  width: 9.5%;
+  background: gray;
+  display: inline-block;
+}
+
+.main-text {
+  height: 187.5vh;
+  width: 100%;
+  background: #fff
+}
+.main-footer {
+  height: 12.5vh;
+  width: 100%;
+  background: #000;
+  display: inline-block;
+}
