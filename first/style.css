@@ -1,0 +1,24 @@
+body {
+	margin: 0;
+	background-color: #D8D8D8;
+}
+
+header {
+	height: 150px;
+	background-color: gray;
+	width: 100%;
+}
+
+main {
+	margin: 0 10% 0 10%;
+	background-color: white;
+	height: 100vh;
+	overflow: hidde
+}
+
+
+footer {
+	height: 70px;
+	background-color: black;
+	margin: 0 10% 0 10%;
+}
