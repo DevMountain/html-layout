@@ -1,0 +1,39 @@
+html, body {
+	margin: 0;
+	height: 100%;
+}
+
+main {
+	height: 100%;
+}
+
+.one {
+	background-color: #4A90E2;
+	width: 33%;
+	height: 100%;
+	display: inline-block;
+
+}
+
+.two {
+	background-color: #50E3C2;
+	width: 33%;
+	height: 100%;
+	display: inline-block;
+}
+
+.three {
+	background-color: #B8E986;
+	width: 33%;
+	height: 100%;
+	display: inline-block;
+
+}
+
+.image {
+	background-color: red;
+	height: 230px;
+	width: 100%;
+	position: fixed;
+	bottom: 0px;
+}
