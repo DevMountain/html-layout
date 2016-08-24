@@ -39,5 +39,5 @@ main {
 	height: 230px;
 	width: inherit;
 	position: fixed;
-	bottom: 0px;
+	bottom: 0;
 }
