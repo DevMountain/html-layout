@@ -1,0 +1,38 @@
+body{
+  background:#EFEFEF;
+}
+
+.header1{
+  position:absolute;
+  background:#444444;
+  width:100%;
+  height:20vh;
+  z-index:200;
+}
+
+.div1{
+  position:absolute;
+  left:0px;
+  display:inline-block;
+  background:#D8D8D8;
+  width:10%;
+  height:100vh;
+}
+
+.div2{
+  position:absolute;
+  right:0px;
+  display:inline-block;
+  background:#D8D8D8;
+  width:10%;
+  height:100vh;
+}
+
+.div3{
+  position:absolute;
+  bottom: 0px;
+  background:#222222;
+  width:100%;
+  height:15vh;
+  z-index:-200;
+}
