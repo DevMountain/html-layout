@@ -1,0 +1,31 @@
+.gray {
+  /*margin-top:80px;*/
+  /*margin-bottom:35px;*/
+position:fixed;
+top:0px;
+  background:gray;
+height:100px;
+width:100%;
+}
+.left {
+  float:left;
+  background:lightgray;
+  height:100%;
+  width:60px;
+padding-top:100%;
+}
+.right {
+  float:right;
+  background:lightgray;
+  height:100%;
+  width:60px;
+padding-top:100%;
+}
+.bottom {
+  position:fixed;
+  bottom:0;
+  background:black;
+  height:60px;
+  width:100%;
+/*padding-top:100%;*/
+}

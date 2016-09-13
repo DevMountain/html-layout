@@ -1,0 +1,69 @@
+@import 'https://fonts.googleapis.com/css?family=Modak';
+.header {
+  height:10vh;
+  width: 100%;
+  background:lightgray;
+}
+.darkblue {
+  /*padding-left:7px;*/
+  height:7vh;
+  width:7%;
+  background:blue;
+  float:left;
+  margin-top:13px;
+  margin-left:13px;
+}
+.plain {
+  width:100%;
+  height:20vh;
+  }
+  .woot {
+    font-family:'Modak', cursive;
+  }
+.navy {
+  width:100%;
+  height:14vh;
+  /*float:left;*/
+  background:darkblue;
+  margin:auto;
+}
+.blue {
+  width:100%;
+  height:14vh;
+  /*float:left;*/
+  background: lightblue;
+  margin:auto;
+}
+.green {
+  width:100%;
+  height:14vh;
+  /*float:left;*/
+  background:lightgreen;
+  margin:auto;
+}
+.yellow {
+  width:100%;
+  height:14vh;
+  /*float:left;*/
+  background:yellow;
+  margin:auto;
+}
+.container {
+  /*padding-left:10%;*/
+  /*padding-right:10%;*/
+}
+.footer {
+  position:fixed;
+  bottom:0px;
+  background:red;
+  width:26%;
+  height:23vh;
+  margin:auto center;
+  text-align:center;
+}
+span {
+  font-family:'Modak', cursive;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+}
