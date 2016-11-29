@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: grey;
+}
+
+
+header {
+  /*position: absolute;
+  top: 0;*/
+  height: 120px;
+  width: 100%;
+  background-color: black;
+}
+
+main {
+  margin: auto;
+  width:80%;
+  height: 90vh;
+  background-color: white;
+}
+
+footer {
+  height: 90px;
+  background-color: black;
+  margin: auto;
+  width:80%;
+}
