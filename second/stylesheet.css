@@ -1,0 +1,22 @@
+.left {
+  background-color: #80d4ff;
+width: 350px;
+height: 1500px;
+align: left;
+left: 0;
+
+}
+
+.middle {
+  background-color: #66ffff;
+  width: 350px;
+  height: 1500px;
+  align: center;
+  margin: 0;
+}
+.right {
+  width: 350px;
+  height: 1500px;
+  align: right;
+  background-color: #ffffcc;
+}
