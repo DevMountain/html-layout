@@ -1,0 +1,37 @@
+.metaContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.topContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 15px;
+    height: 250px;
+    background-color: darkslategrey;
+}
+
+.innerContainer {
+    height: 150px;
+    width: 150px;
+    background-color: lightgray;
+}
+
+.upper {
+    background-color: aliceblue;
+    height: 300px;
+    
+}
+
+.middle{
+    background-color: aqua;
+    height: 200px;
+}
+
+.lower {
+    background-color: bisque;
+    height: 200px;
+    
+}
