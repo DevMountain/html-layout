@@ -1,0 +1,26 @@
+
+body {
+    padding: 0px;
+    background: lightgrey;
+}
+.main-header {
+    width:100%;
+    height:100px;
+    margin: 0px;
+    background:#4f5154;
+}
+
+.middle {    
+    width: 70%;
+    height: 74vh;
+    background: white;  
+    margin: auto;  
+}
+
+.bottom {
+    width: 70%;
+    height: 7vh;
+    background: black;
+    margin: auto;
+}
+

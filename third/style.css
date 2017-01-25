@@ -1,0 +1,54 @@
+.greyTopSmall {       
+    width: 100%;
+    height: 5vh;
+    background: lightgrey;          
+}
+
+.greyTopLarge {      
+    width: 100%;
+    height: 12vh;
+    background: darkgrey; 
+    position: absolute;    
+}
+
+.blue-square {  
+    width: 10vh;
+    height: 10vh;
+    background: #6daaff;
+    top: 7px;
+    left: 10px;
+    position: relative;
+}
+
+.white-box {
+    width: auto;
+    height: 25vh;
+    background: white; 
+    padding-top: 60px;     
+    margin: 50px;        
+}
+
+.blue-bar {
+    width: auto;
+    height: 15vh;
+    background: #6daaff;
+}
+
+.green-bar {
+    width: auto;
+    height: 15vh;
+    background: lightgreen;      
+}
+
+.puke-bar {
+    width: auto;
+    height: 15vh;
+    background: #daf260;     
+}
+
+.yellow-bar {
+    width: auto;
+    height: 15vh;
+    background: yellow;
+}
+      
