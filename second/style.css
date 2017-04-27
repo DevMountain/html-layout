@@ -1,0 +1,35 @@
+h1{
+  color:white;
+  text-align:center;
+  line-height:30vh;
+  font-size:30px;
+}
+
+.leftbox{
+  background:#4A90E2;
+  width:33%;
+  height:100vh;
+  float:left;
+}
+.midbox{
+  background:#50E3C2;
+  width:33%;
+  height:100vh;
+  float:left;
+
+}
+.rightbox{
+  background:#B8E986;
+  width:34%;
+  height:100vh;
+  float:left;
+
+}
+.inset{
+  position:absolute;
+  bottom:0px;
+  right:0px;
+  background:#D0021B;
+  height:30vh;
+  width:34%;
+}
