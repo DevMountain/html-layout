@@ -1,0 +1,25 @@
+body {
+	margin:0;
+	background-color: gray;
+}
+
+.header {
+	background-color: black;
+	height: 15%;
+	width: 100%;
+	display: block;
+}
+
+.body {
+	background-color: white;
+	height: 75%;
+	margin: 0 15%;
+	display: block;		
+}
+
+.footer {
+	background-color: black;
+	height: 10%;
+	margin: 0 15%;
+	display: block;
+}

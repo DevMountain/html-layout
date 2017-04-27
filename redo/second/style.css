@@ -1,0 +1,48 @@
+* {
+	margin: 0;
+}
+
+body {
+	background-color: gray;
+}
+
+div.column {
+	position: inline-block;
+	width: 33%;
+	height: 1000px;
+	/*border: 1px solid black;*/
+}
+
+div.one {
+	background-color: #4a90e2;
+	float: left;
+}
+
+div.two {
+	background-color: #50e3c2;
+	float:left;
+}
+
+div.three { 
+	float: left;
+}
+
+div.four {
+	width: 100%;
+	height: 700px;
+	background-color: #b8e986;
+}
+
+div.five {
+	width: 100%;
+	height: 150px;
+	background-color: #d0021b;
+	padding-top: 150px;
+}
+
+p {
+	color: white;
+	text-align: center;
+	font-family: futura;
+	font-size: 20px;
+}
