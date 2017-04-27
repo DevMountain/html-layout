@@ -1,0 +1,45 @@
+.header {
+	background-color: #444444;
+	height: 145px;
+	width: 1024px;
+}
+
+.edgeleft {
+	background-color: #D8D8D8;
+	height: 879px;
+	width:144px;
+	float:left;
+}
+
+.edgeright {
+	background-color: #D8D8D8;
+	height: 879px;
+	width:144px;
+	float:left;
+}
+
+.body {
+	background-color: #EFEFEF;
+	height:800px;
+	width:736px;
+	border:0px;
+	margin: 0px;
+}
+
+.stack {
+	float:left;
+	border:0px;
+	margin: 0px;
+
+}
+
+.footer {
+	background-color: #222222;
+	height:79px;
+	width:736px;
+	border:0px;
+	margin: 0px;
+}
+.middle {
+
+}
