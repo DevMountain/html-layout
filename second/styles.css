@@ -1,0 +1,37 @@
+#largeContainer {
+    display: flex;
+}
+
+.container {
+    display: flex;
+    height: 974px;
+}
+
+.left {
+    background-color: aqua;
+    flex-grow: 1;
+}
+
+.middle {
+    background-color: seagreen;
+    flex-grow: 1;
+    
+}
+
+.right {
+    background-color: firebrick;
+    flex-grow: 1;
+    position: relative;
+}
+
+#image-here {
+    background-color: darkred;
+    color: white;
+    height: 264px;
+    flex-grow: 1;
+    margin-top: 100%;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
+}
