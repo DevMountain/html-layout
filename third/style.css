@@ -1,0 +1,56 @@
+html, body {
+	margin: 0;
+	height: 100%;
+}
+
+
+header {
+	height: 15%;
+	background-color: #D8D8D8;
+	overflow: hidden;
+}
+
+.box {
+	text-align: left;
+	margin: 35px;
+	width: 70px;
+	height: 70px;
+	background-color: #4A90E2;
+	overflow: hidden;
+}
+
+.one {
+	background-color: #FFFFFF;
+	height: 25%;
+
+}
+
+.two {
+	background-color: #4A90E2;
+	height: 15%;
+
+}
+
+.three {
+	background-color: #50E3C2;
+	height: 15%;
+
+
+}
+
+.four {
+	background-color: #B8E986;
+	height: 15%;
+
+
+}
+
+.five {
+	background-color: #F8E71C;
+	height: 15%;
+}
+
+p {
+	text-align: center;
+	padding: 80px;
+}
