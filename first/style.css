@@ -1,0 +1,22 @@
+body {
+  background-color: #D3D3D3;
+}
+.header {
+  background-color: #4d4d4d;
+  height: 175px;
+  margin-left:-5px;
+  margin-top: -5px;
+}
+.article {
+  background-color: #f2f2f2;
+  width: 700px;
+  height: 849px;
+  margin: 0 auto;
+}
+.footer {
+  background-color: black;
+  clear: both;
+  width: 700px;
+  height:75px;
+  margin: 0 auto;
+}

@@ -1,0 +1,51 @@
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+.header {
+  background-color: #d9d9d9;
+  width: 100%;
+  height: 14%;
+}
+.box {
+  background-color:  #4799eb;
+  height: 80%;
+  width: 10%;
+  position: relative;
+  left: 10px;
+  top: 8px;
+}
+.paragraph {
+  height: 28%;
+  padding: 20px;
+}
+.first {
+  width: 100%;
+  height: 14%;
+  background-color: #4A90E2;
+
+}
+.second {
+  width: 100%;
+  height: 14%;
+  background-color: #50E3C2;
+}
+.third {
+  width: 100%;
+  height: 14%;
+  background-color: #B8E986;
+}
+.fourth {
+  width: 100%;
+  height: 14%;
+  background-color: #F8E71C;
+}
+p {
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+  padding: 30px;
+  height: 28%;
+  margin: 0;
+}
