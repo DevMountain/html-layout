@@ -1,0 +1,39 @@
+
+
+.left { 
+    float: left;       
+    width: 33.3%;
+    height: 100vh;
+    background: #4283f4;          
+}
+
+.middle {    
+    float: left;
+    width: 33.3%;
+    height: 100vh;
+    background: #23ffbd;      
+}
+
+.right {
+    float: right;
+    width: 33.3%;
+    height: 100vh;
+    background: #e9ff7c;
+    position: relative;    
+}
+
+.bottom {
+    width: 100%;
+    height: 25vh;
+    background: red;
+    position: absolute;
+    bottom: 0;    
+}
+
+p {
+    text-align: center;
+    margin-top: 45%;
+    color: white;
+    font-weight: bold;
+}
+
