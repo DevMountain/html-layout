@@ -1,0 +1,60 @@
+body, html {
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	background-color: #DCDCDC;
+}
+
+body > * {
+	padding: 0;
+	margin: 0;
+}
+
+.container {
+	display: flex;
+	height: 100%;
+	
+	flex-flow: row wrap;
+}
+
+.header {
+	background-color: rgb(68, 68, 68);
+	height: 20%;
+	min-height: 100px;
+	max-height: 100px;
+	width: 100%;
+	flex: 1 auto;
+
+	padding: 10px;
+	
+	display: flexbox;
+}
+
+.filler {
+	width: 15%;
+	display: flexbox;
+}
+
+.content {
+	background-color: rgb(239, 239, 239);
+	flex: 1 auto;
+	width: 70%;
+	min-height: 72%;
+	align-self: flex-start;
+	/*flex-direction: column;*/
+	/*flex-wrap: wrap;*/
+	
+	display: flexbox;
+}
+
+.footer {
+	background-color: rgb(34, 34, 34);
+	flex: 1 auto;
+	min-height: 60px;
+	max-height: 60px;
+	height: 10%;
+	width: 70%;
+	
+	display: flexbox;
+	align-self: flex-end;
+}
