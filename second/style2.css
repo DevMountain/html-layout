@@ -1,0 +1,24 @@
+
+ .left-sidebar {
+   width: 33.3%;
+   bottom: 0px;
+   float: left;
+   height: 770px;
+   background-color: #6699ff;
+ }
+ .right-sidebar {
+   bottom: 0px;
+   float:right;
+   width: 33.3%;
+   height: 770px;
+   background-color: #99ff66;
+ }
+.container {
+  right: 200px;
+  width: 33.3%;
+  height: 770px;
+  background-color: #00cc99
+
+}
+ /*main { height 100vh;*/
+ /*width 100vh;}*/
