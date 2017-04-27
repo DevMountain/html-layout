@@ -1,0 +1,29 @@
+.flexbox{
+  display:flex;
+}
+
+.bluebox{
+  height: 100vh;
+  width: 40%;
+  background: #4A90E2;
+}
+
+.aquabox{
+  height: 100vh;
+  width: 40%;
+  background: #50E3C2
+}
+
+.greenbox{
+  height: 100vh;
+  width: 20%;
+  background: #B8E986;
+  display: flex;
+  flex-direction:column-reverse;
+}
+
+.redbox{
+  height: 10vh;
+  width: 100%;
+  background: red;
+}

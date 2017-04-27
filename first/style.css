@@ -1,0 +1,15 @@
+.main-header{
+  width: 100%;
+  height: 20vh;
+  background:#444444;
+}
+
+.main-box{
+  display:flex;
+}
+
+.side-box{
+  height: 80vh;
+  width: 20%;
+  background: #D8D8D8;
+}

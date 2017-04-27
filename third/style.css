@@ -1,0 +1,65 @@
+
+html{
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.main-flexbox{
+  display:flex;
+  flex-direction: column;
+}
+
+.graybox{
+  width: 100%;
+  height: 15vh;
+  background: #D8D8D8;
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+}
+
+.flexbox-bluesquare{
+  padding-left: 10px;
+  display:flex;
+  justify-content:flex-start;
+}
+
+.bluesquare{
+  width: 80px;
+  height: 80px;
+  background: #4A90E2;
+}
+
+.whitebox{
+  width: 100%;
+  height: 25vh;
+  display: flex;
+}
+
+.whitebox p{
+  margin: 10% 0 0 10%;
+}
+
+.bluebox{
+  width: 100%;
+  height: 15vh;
+  background: #4A90E2;
+}
+
+.aquabox{
+  width: 100%;
+  height: 15vh;
+  background: #50E3C2;
+}
+
+.greenbox{
+  width: 100%;
+  height: 15vh;
+  background: #B8E986;
+}
+
+.yellowbox{
+  width: 100%;
+  height: 15vh;
+  background: #F8E71C;
+}
