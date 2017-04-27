@@ -1,0 +1,51 @@
+
+.header {
+  height: 15vh;
+  width: 100%;
+  background: #000
+}
+
+.block {
+  height: 12vh;
+  width: 12vh;
+  background-color: #0099ff;
+  float:left;
+  position: relative;
+  margin-left: 1.5vh;
+  margin-top: 1.5vh;
+}
+
+.text {
+  height: 23vh;
+  width: 100%;
+  background: #fff;
+
+}
+
+.text p {
+  text-align: center;
+  font-size: 2.5vh;
+  padding-top: 3%;
+  color: #000;
+}
+
+.footer-one {
+  height: 15vh;
+  width: 100%;
+  background: #0099ff;
+}
+.footer-two {
+  height: 15vh;
+  width: 100%;
+  background: #00ffcc;
+}
+.footer-three {
+  height: 15vh;
+  width: 100%;
+  background: #c4ff4d;
+}
+.footer-four {
+  height: 15vh;
+  width: 100%;
+  background: #ffff00;
+}
