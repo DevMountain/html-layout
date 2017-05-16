@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+}
+.wideboxes {
+  width: 100%;
+  height: 15vh;
+}
+
+#whitetext {
+  height: 25vh;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+#bluestreak {
+  background-color: blue;
+  height: 10vh;
+  width: 10vh;
+  margin-left: 20px;
+  border-top: 2.5vh;
+  border-bottom: 2.5vh;
+  border-color: grey;
+  border-style: solid;
+
+}
+#greytop {
+  background-color: grey;
+}
+#bluebox {
+  background-color: blue;
+}
+#cyanbox {
+  background-color: cyan;
+}
+#greenbox {
+  background-color: green;
+}
+#yellowbox {
+  background-color: yellow;
+}
