@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  width: 900px;
+  margin: 0 auto;
+}
+.column {
+  height: 100vh;
+  width: 33%;
+  display: inline-block;
+  float:left;
+}
+
+.column.left {
+  background-color: blue;
+
+}
+
+.column.center{
+  background-color: green;
+
+}
+
+.column.right{
+  background-color: yellow;
+  position: relative;
+
+}
+
+.photo{
+  height: 250px;
+  width: 100%;
+  background-color: red;
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.photo h2{
+color: white;
+font-family: sans-serif;
+font-weight: 100;
+font-size: 28px;
+
+}

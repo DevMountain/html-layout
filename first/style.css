@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+
+}
+.container {
+  height: 100vh;
+  width: 900px;
+  margin: 0 auto;
+}
+header {
+  width: 891px;
+  height: 100px;
+  background-color: gray;
+}
+
+main {
+  height: calc(100vh - 100px);
+  margin: 0 auto;
+}
+
+main .side {
+  height: 100%;
+  width: 19.5%;
+  float: left;
+  background-color: lightgray;
+}
+
+main .center {
+  float: left;
+  height: 100%;
+  width: 60%;
+  /*display: inline-block;*/
+
+}
+main #big-box {
+  height: 90%;
+}
+
+footer {
+  background-color: black;
+  height: 10%;
+}
