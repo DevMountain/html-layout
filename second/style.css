@@ -1,0 +1,38 @@
+.body_content {
+  position: static;
+  display: flex;
+}
+.column {
+  position: relative;
+  display: inline-block;
+  height: 100vh;
+  width: 33.3%;
+  border: none;
+}
+.left_col {
+  background: #4a90e2;
+}
+.middle_col {
+  background: #50e3c2;
+}
+.right_col {
+  background: #b8e986;
+}
+.img_placeholder {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  height: 200px;
+  background: #d0021b;
+  text-align: center;
+}
+
+.img_placeholder > div {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  padding-top: 90px;
+  font-size: 30px;
+  font-family: sans-serif;
+  color: white;
+}

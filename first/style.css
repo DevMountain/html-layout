@@ -1,0 +1,25 @@
+
+body {
+  background: lightgray;
+}
+
+.main_header {
+  background: #293333;
+  width: 100%;
+  height: 200px;
+}
+
+.content {
+  background: white;
+  min-height: 800px;
+  margin: auto 15%;
+  position: relative;
+}
+
+.content_footer {
+  background: #293333;
+  width: 100%;
+  height: 100px;
+  position: absolute;
+  bottom: 0;
+}
