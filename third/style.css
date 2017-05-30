@@ -1,25 +1,34 @@
-
-body {
-  background: lightgray;
+.nav {
+  height: 120px;
+  background: #d8d8d8;
 }
-
-.main_header {
-  background: #293333;
-  width: 100%;
-  height: 200px;
-}
-
-.content {
-  background: white;
-  min-height: 800px;
-  margin: auto 15%;
-  position: relative;
-}
-
-.content_footer {
-  background: #293333;
-  width: 100%;
-  height: 100px;
+.nav_icon {
   position: absolute;
-  bottom: 0;
+  height: 100px;
+  width: 100px;
+  background: white;
+  margin-left: 40px;
+  margin-top: 10px;
+  background: #4a90e2;
+}
+.main_header {
+  padding: 70px;
+  font-size: 32px;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+.body_section {
+  height: 150px;
+}
+.section1 {
+  background: #4a90e2;
+}
+.section2 {
+  background: #50e3c2;
+}
+.section3 {
+  background: #b8e986;
+}
+.section4 {
+  background: #f8e71c;
 }
