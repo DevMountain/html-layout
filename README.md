@@ -26,10 +26,6 @@ Inside each of the three folders you will find an image. That image is a represe
 
 ## First
 
-### Setup
-
-You have already been setup with an index.html file, and a style.css file.
-
 ### Directions
 
 Below are the very broad directions to finishing the 'first' clone. If you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept. Have Fun!
@@ -69,18 +65,18 @@ Below are the very broad directions to finishing the 'first' clone. If you need 
 
 ### Solution
 
+* html solution
+* css solution
+
 ## Second
-
-## Setup
-
-* Create a html file name `index.html` inside of the 'second' folder.
-* Create css file named `style.css` inside of the 'second' folder.
 
 ### Directions
 
 Below are the very broad directions to finishing the 'second' clone. If you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept. Have Fun!
 
 * Open 'second' folder.
+* Create a html file name `index.html` inside of the 'second' folder.
+* Create css file named `style.css` inside of the 'second' folder.
 * Create the boiler plate in the index.html file you created during setup.
 * Link the style.css file you created during setup in your index.html file.
 * Create a HTML structure using semantic elements.
@@ -114,19 +110,18 @@ Below are the very broad directions to finishing the 'second' clone. If you need
 
 ### Solution
 
+* html solution
+* css solution
 
 ## Third
-
-## Setup
-
-* Create a index.html file inside the 'third' folder.
-* Create a style.css file inside the 'third' folder.
 
 ### Directions
 
 Below are the very broad directions to finishing the 'third' clone. If you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept. Have Fun!
 
 * Open 'third' folder.
+* Create a index.html file inside the 'third' folder.
+* Create a style.css file inside the 'third' folder.
 * Create the boiler plate in the index.html file you created during setup.
 * Link the style.css file you created during setup in your index.html file.
 * Create a HTML structure using semantic elements.
@@ -167,7 +162,12 @@ Below are the very broad directions to finishing the 'third' clone. If you need 
 
 ### Solution
 
+* html solution
+* css solution
 
+# End of project
+
+Congratulations you have finish this project.
 
 ## Contributions
 If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch.
