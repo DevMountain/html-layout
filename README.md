@@ -1,4 +1,4 @@
-<img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
+<!-- <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
 html-layout
 ===========
@@ -7,7 +7,166 @@ html-layout
 Understand HTML and its uses in layout by completing a series of tasks
 
 ## Directions
-Fork this repo then clone your fork onto your local machine. Inside each of the three folders you will find an image. That image is a representation of the layout you need to create using HTML and CSS. The 'first' folder contains an index.html and a style.css file. In the other folders, you'll need to add them yourself. *Your first step should be connecting your CSS sheet with your HTML sheet.*
+Fork this repo then clone your fork onto your local machine. Inside each of the three folders you will find an image. That image is a representation of the layout you need to create using HTML and CSS. The 'first' folder contains an index.html and a style.css file. In the other folders, you'll need to add them yourself. *Your first step should be connecting your CSS sheet with your HTML sheet.* -->
+
+<img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
+
+# Project Summary
+
+In this project, you will be cloning three different html-layouts from scratch. This will help you get used to the basic structure of an html skeleton and help you get comfortable with linking css pages to your html document. You will be doing all the css as well. Good luck!
+
+## Setup
+
+* Fork and clone this repo.
+* `cd` into the directory.
+
+## Directions
+
+Inside each of the three folders you will find an image. That image is a representation of the layout you need to create using HTML and CSS. The 'first' folder contains an index.html and a style.css file. In the other folders, you'll need to add them yourself.
+
+## First
+
+### Setup
+
+You have already been setup with an index.html file, and a style.css file.
+
+### Directions
+
+Below are the very broad directions to finishing the 'first' clone. If you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept. Have Fun!
+
+* Open 'first' folder.
+* Create your index.html boiler plate.
+* Link your style.css in your index.html file.
+* Create a HTML structure using semantic elements.
+* Add CSS to give each element a height, width, position, etc. to make your webpage look as close as you can to the image provided.
+
+### Follow Along
+
+* Open `index.html`.
+* Inside index.html, create your index.html boiler plate.
+  *
+* Inside index.html, link the index.html file to the style.css file using a <link> tag.
+  *
+* Inside index.html, in the body tags create header using the <header> tag. Give it a class so that we can style it later. Close your header tag </header>.
+  *
+* Inside index.html, below the closing header tag create a aside section using the <aside> tag. Give it a class name. Close your aside tag </aside>.
+  *
+* Inside index.html, below the closing aside tag create a main section using the <main> tag. Give it a class name and add the closing main tag </main>.
+  *
+* Inside index.html, inside your main section tags add a div using the <div> tag. Give it a class name and do forget to close the div tag </div>.
+  *
+* Inside index.html, below the closing main tag create another aside section using the <aside> tag. Give it the same class name as the previous aside tag and close th aside tag </aside>.
+  *
+* Open `style.css`.
+* Inside style.css, select the header by class and give it a height, width, and background color.
+  *
+* Inside style.css, select the aside sections by class and give the a height, width, background color, and display property.
+  *
+* Inside style.css, select the main section by class and give it a height, width, background color, position, and display property.
+  *
+* Inside style.css, select the div inside the main section by class and give it a height, width, background color, position, and bottom property.
+  *
+
+### Solution
+
+## Second
+
+## Setup
+
+* Create a html file name `index.html` inside of the 'second' folder.
+* Create css file named `style.css` inside of the 'second' folder.
+
+### Directions
+
+Below are the very broad directions to finishing the 'second' clone. If you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept. Have Fun!
+
+* Open 'second' folder.
+* Create the boiler plate in the index.html file you created during setup.
+* Link the style.css file you created during setup in your index.html file.
+* Create a HTML structure using semantic elements.
+* Add CSS to give each element a height, width, position, etc. to make your webpage look as close as you can to the image provided.
+
+### Follow Along
+
+* Open `index.html`.
+* Inside index.html, create your index.html boiler plate.
+  *
+* Inside index.html, link the index.html file to the style.css file using a <link> tag.
+  *
+* Inside index.html, inside the body create a section using the <section> tag. Give it a class name and close the section </section>.
+  *
+* Insdie index.html, below the section you made in the previous step create another section using the section tag. Give it a different class name and close the section with a closing section tag </section>.
+  *
+* Inside index.html, below the section you made in the previous step create a third section using the <section> tag. Give it a class name and don't forget to close your section with a closing section tag </section>.
+  *
+* Inside index.html, inside the third section tags create a image element using the <img> tag. Give it a class name so we can style it later.
+  *
+* Open `style.css`.
+* Inside style.css, select the first section by class and give it a height, width, background color, a display property.
+  *
+* Inside style.css, select the second section by class and give it a height, width, background color, and display property.
+  *
+* Inside style.css, select the third section by class and give it a height, width, background color, position, and display property.
+  *
+* Inside style.css, select the image by class and give it a height, width, position, and bottom property.
+  *
+
+
+### Solution
+
+
+## Third
+
+## Setup
+
+* Create a index.html file inside the 'third' folder.
+* Create a style.css file inside the 'third' folder.
+
+### Directions
+
+Below are the very broad directions to finishing the 'third' clone. If you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept. Have Fun!
+
+* Open 'third' folder.
+* Create the boiler plate in the index.html file you created during setup.
+* Link the style.css file you created during setup in your index.html file.
+* Create a HTML structure using semantic elements.
+* Add CSS to give each element a height, width, position, etc. to make your webpage look as close as you can to the image provided.
+
+### Follow Along
+
+* Open `index.html`.
+* Inside index.html, create your index.html boiler plate.
+  *
+* Inside index.html, link the index.html file to the style.css file using a <link> tag.
+  *
+* Inside index.html, inside the body create a header using the <header> tag. Give it a class name and close the header with a closing </header> tag.
+  *
+* Inside index.html, inside the header create a div and give it a class name so we can style it later. Close the div with a closing div tag.
+  *
+* Inside index.html, below the header element create a main section using the <main> tag. Give it a class name and close the main section with a closing </main>
+* Inside  index.html, inside the main section you created in the previous step create a paragraph using a <p> tag. Add the text from the image in the <p> tag. Give the p tag. Give it a class name and close the p tag.
+  *
+* Inside index.html, below the main section create four sections one after the other using the <section> tag and close each of them. Give each of the section the same class name.
+  *
+* Inside index.html, for each of the four sections you created in the previous step give each a unique id.
+  *
+* Open `style.css`.
+* Inside style.css, select the header by class and give it a height, width, and background color.
+  *
+* Inside style.css, select the div inside the header by class and give it a height, width, float, and margin property.
+  *
+* Inside style.css, select the main section by class and give it a height, and padding property.
+  *
+* Inside style.css, select the text inside the main section by class and give it a font-size property.
+  *
+* Inside style.css, select the lower four sections by class and give them a height.
+  *
+* Inside style.css, select the lower four section by id individually and give each their corresponding background color.
+  *
+
+### Solution
+
+
 
 ## Contributions
 If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch.
