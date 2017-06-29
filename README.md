@@ -13,7 +13,7 @@ Fork this repo then clone your fork onto your local machine. Inside each of the 
 
 # Project Summary
 
-In this project, you will be cloning three different html-layouts from scratch. This will help you get used to the basic structure of an html skeleton and help you get comfortable with linking css pages to your html document. You will be doing all the css as well. Good luck!
+In this project, you will be cloning/re-creating three different html-layouts from scratch. This will help you get used to creating html documents and linking css pages to it. This project will also help you practice the ability to create a picture of a layout using html and css.
 
 ## Setup
 
@@ -28,7 +28,7 @@ Inside each of the three folders you will find an image. That image is a represe
 
 ### Directions
 
-Below are the very broad directions to finishing the 'first' clone. If you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept. Have Fun!
+Below are the very broad directions to finishing the clone of the image in the 'first' folder. If you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept. Have Fun!
 
 * Open 'first' folder.
 * Create your index.html boiler plate.
@@ -41,17 +41,17 @@ Below are the very broad directions to finishing the 'first' clone. If you need 
 * Open `index.html`.
 * Inside index.html, create your index.html boiler plate.
   * solution
-* Inside index.html, link the index.html file to the style.css file using a <link> tag.
+* Inside `index.html`, link the index.html file to the style.css file using a `<link>` tag.
   * solution
-* Inside index.html, in the body tags create header using the <header> tag. Give it a class so that we can style it later. Close your header tag </header>.
+* Inside index.html, in the `body` tags create header using the `<header>` tag. Give it a class so that we can style it later. Close your header tag `</header>`.
   * solution
-* Inside index.html, below the closing header tag create a aside section using the <aside> tag. Give it a class name. Close your aside tag </aside>.
+* Inside index.html, below the closing header tag create a aside section using the `<aside>` tag. Give it a class name. Close your aside tag `</aside>`.
   * solution
-* Inside index.html, below the closing aside tag create a main section using the <main> tag. Give it a class name and add the closing main tag </main>.
+* Inside index.html, below the closing aside tag create a main section using the `<main>` tag. Give it a class name and add the closing main tag `</main>`.
   * solution
-* Inside index.html, inside your main section tags add a div using the <div> tag. Give it a class name and do forget to close the div tag </div>.
+* Inside index.html, inside your main section tags add a div using the `<div>` tag. Give it a class name and do forget to close the div tag `</div>`.
   * solution
-* Inside index.html, below the closing main tag create another aside section using the <aside> tag. Give it the same class name as the previous aside tag and close th aside tag </aside>.
+* Inside index.html, below the closing main tag create another aside section using the `<aside>` tag. Give it the same class name as the previous aside tag and close the aside tag `</aside>`.
   * solution
 * Open `style.css`.
 * Inside style.css, select the header by class and give it a height, width, and background color.
@@ -72,7 +72,7 @@ Below are the very broad directions to finishing the 'first' clone. If you need 
 
 ### Directions
 
-Below are the very broad directions to finishing the 'second' clone. If you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept. Have Fun!
+Below are the very broad directions to finishing the clone of the image in the 'second' folder. If you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept. Have Fun!
 
 * Open 'second' folder.
 * Create a html file name `index.html` inside of the 'second' folder.
@@ -87,15 +87,15 @@ Below are the very broad directions to finishing the 'second' clone. If you need
 * Open `index.html`.
 * Inside index.html, create your index.html boiler plate.
   * solution
-* Inside index.html, link the index.html file to the style.css file using a <link> tag.
+* Inside index.html, link the index.html file to the style.css file using a `<link>` tag.
   * solution
-* Inside index.html, inside the body create a section using the <section> tag. Give it a class name and close the section </section>.
+* Inside index.html, inside the body create a section using the `<section>` tag. Give it a class name and close the section `</section>.`
   * solution
-* Insdie index.html, below the section you made in the previous step create another section using the section tag. Give it a different class name and close the section with a closing section tag </section>.
+* Inside index.html, below the section you made in the previous step create another section using the `<section>` tag. Give it a different class name and close the section with a closing section tag `</section>`.
   * solution
-* Inside index.html, below the section you made in the previous step create a third section using the <section> tag. Give it a class name and don't forget to close your section with a closing section tag </section>.
+* Inside index.html, below the section you made in the previous step create a third section using the `<section>` tag. Give it a class name and don't forget to close your section with a closing section tag `</section>`.
   * solution
-* Inside index.html, inside the third section tags create a image element using the <img> tag. Give it a class name so we can style it later.
+* Inside index.html, inside the third section tags create a image element using the `<img>` tag. Give it a class name so we can style it later.
   * solution
 * Open `style.css`.
 * Inside style.css, select the first section by class and give it a height, width, background color, a display property.
@@ -117,7 +117,7 @@ Below are the very broad directions to finishing the 'second' clone. If you need
 
 ### Directions
 
-Below are the very broad directions to finishing the 'third' clone. If you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept. Have Fun!
+Below are the very broad directions to finishing the clone of the image in the 'third' folder. If you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept. Have Fun!
 
 * Open 'third' folder.
 * Create a index.html file inside the 'third' folder.
@@ -134,17 +134,17 @@ Below are the very broad directions to finishing the 'third' clone. If you need 
   * solution
 * Inside index.html, link the index.html file to the style.css file using a <link> tag.
   * solution
-* Inside index.html, inside the body create a header using the <header> tag. Give it a class name and close the header with a closing </header> tag.
+* Inside index.html, inside the body create a header using the `<header>` tag. Give it a class name and close the header with a closing `</header>` tag.
   * solution
-* Inside index.html, inside the header create a div and give it a class name so we can style it later. Close the div with a closing div tag.
+* Inside index.html, inside the header create a div using the `<div>` tag and give it a class name so we can style it later. Close the div with a closing `</div>` tag.
   * solution
-* Inside index.html, below the header element create a main section using the <main> tag. Give it a class name and close the main section with a closing </main> tag.
+* Inside index.html, below the header element create a main section using the `<main>` tag. Give it a class name and close the main section with a closing `</main>` tag.
   * solution
-* Inside  index.html, inside the main section you created in the previous step create a paragraph using a <p> tag. Add the text from the image in the <p> tag. Give the p tag. Give it a class name and close the p tag.
+* Inside  index.html, inside the main section you created in the previous step create a paragraph using a `<p>` tag. Add the same text you see in the image provided inside the `<p>` tag. Give it a class name and close the paragraph using a closing `</p>` tag.
   * solution
-* Inside index.html, below the main section create four sections one after the other using the <section> tag and close each of them. Give each of the section the same class name.
+* Inside index.html, below the main section create four sections one after the other using the `<section>` tag and close each of them using a closing `</section>` tag. Give each of the section the same class name.
   * solution
-* Inside index.html, for each of the four sections you created in the previous step give each a unique id.
+* Inside index.html, for each of the four sections you created in the previous step give each one a unique id.
   * solution
 * Open `style.css`.
 * Inside style.css, select the header by class and give it a height, width, and background color.
