@@ -28,7 +28,7 @@ Inside each of the three folders you will find an image. That image is a represe
 
 ### Directions
 
-Below are the very broad directions to finishing the clone of the image in the 'first' folder. If you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept. Have Fun!
+Below are the very broad directions to finishing the clone of the image in the 'first' folder. We encourage you to try to finish this project with as little help as possible. But if you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept. Have Fun!
 
 * Open 'first' folder.
 * Create a reset.css file.

@@ -1,7 +1,7 @@
 .header{
   height: 19vh;
   width: 100%;
-  background: lightGray;
+  background: #D8D8D8;
   padding: 10px;
 }
 
@@ -9,7 +9,7 @@
   height: 16vh;
   width: 16vh;
   margin-left: 10px;
-  background: blue;
+  background: #4A90E2;
 }
 
 .main{
@@ -28,17 +28,17 @@
 }
 
 .blue{
-  background: blue;
+  background: #4A90E2;
 }
 
 .aqua{
-  background: aqua;
+  background: #50E3C2;
 }
 
 .green{
-  background: green;
+  background: #B8E986;
 }
 
 .yellow{
-  background: yellow;
+  background: #F8E71C;
 }
