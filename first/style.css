@@ -1,0 +1,28 @@
+.header{
+  background: gray;
+  height: 20vh;
+}
+
+.side-bar{
+  float: left;
+  height: 80vh;
+  width: 15%;
+  background: lightGray;
+}
+
+.main{
+  float: left;
+  height: 80vh;
+  width: 70%;
+  background: white;
+  position: relative;
+}
+
+.main-footer{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 20%;
+  width: 100%;
+  background: black;
+}

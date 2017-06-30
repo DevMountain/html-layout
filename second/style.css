@@ -1,0 +1,26 @@
+.panel{
+  float:left;
+  width: 33.33%;
+  height: 100vh;
+}
+
+.blue{
+  background: blue;
+}
+
+.aqua{
+  background: aqua;
+}
+
+.green{
+  background: green;
+  position: relative;
+}
+
+.placeholder{
+  width: 100%;
+  height: auto;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}

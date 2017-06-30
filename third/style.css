@@ -1,0 +1,44 @@
+.header{
+  height: 19vh;
+  width: 100%;
+  background: lightGray;
+  padding: 10px;
+}
+
+.blue-box{
+  height: 16vh;
+  width: 16vh;
+  margin-left: 10px;
+  background: blue;
+}
+
+.main{
+  height: 54vh;
+  padding: 80px;
+}
+
+.text{
+  font-size: 2rem;
+  line-height: 40px;
+  margin-bottom: 40px;
+}
+
+.bottom-bar{
+  height: 27vh;
+}
+
+.blue{
+  background: blue;
+}
+
+.aqua{
+  background: aqua;
+}
+
+.green{
+  background: green;
+}
+
+.yellow{
+  background: yellow;
+}

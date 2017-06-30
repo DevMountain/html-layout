@@ -13,7 +13,7 @@ Fork this repo then clone your fork onto your local machine. Inside each of the 
 
 # Project Summary
 
-In this project, you will be cloning/re-creating three different html-layouts from scratch. This will help you get used to creating html documents and linking css pages to it. This project will also help you practice the ability to create a picture of a layout using html and css.
+In this project, you will be cloning/re-creating three different html-layouts from scratch. This will help you get used to creating html documents and linking css pages. This project will also help you practice the ability to create layouts using html and css.
 
 ## Setup
 
@@ -31,6 +31,8 @@ Inside each of the three folders you will find an image. That image is a represe
 Below are the very broad directions to finishing the clone of the image in the 'first' folder. If you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept. Have Fun!
 
 * Open 'first' folder.
+* Create a reset.css file.
+* Add reset css styles.
 * Create your index.html boiler plate.
 * Link your style.css in your index.html file.
 * Create a HTML structure using semantic elements.
@@ -40,14 +42,19 @@ Below are the very broad directions to finishing the clone of the image in the '
 
 * Open `index.html`.
 * Inside index.html, create your index.html boiler plate.
+  Be sure to include:
+  * Document type declaration
+  * etc.
   * solution
 * Inside `index.html`, link the index.html file to the style.css file using a `<link>` tag.
   * solution
-* Inside index.html, in the `body` tags create header using the `<header>` tag. Give it a class so that we can style it later. Close your header tag `</header>`.
+* Inside `index.html`, link the index.html file to the reset.css file using a `<link>` tag. Be sure to insert this link before the style.css.
   * solution
-* Inside index.html, below the closing header tag create a aside section using the `<aside>` tag. Give it a class name. Close your aside tag `</aside>`.
+* Inside index.html, in the `body` tags create header. Give it a class so that we can style it later. Close your header tag.
   * solution
-* Inside index.html, below the closing aside tag create a main section using the `<main>` tag. Give it a class name and add the closing main tag `</main>`.
+* Inside index.html, below the closing header tag create a aside section. Give it a class name. Close your aside tag.
+  * solution
+* Inside index.html, below the closing aside tag create a `main` section. Give it a class name and close the `main` tag.
   * solution
 * Inside index.html, inside your main section tags add a div using the `<div>` tag. Give it a class name and do forget to close the div tag `</div>`.
   * solution
@@ -77,6 +84,8 @@ Below are the very broad directions to finishing the clone of the image in the '
 * Open 'second' folder.
 * Create a html file name `index.html` inside of the 'second' folder.
 * Create css file named `style.css` inside of the 'second' folder.
+* Create a `reset.css` file inside of the 'second' folder.
+* Add reset css styles into `reset.css`.
 * Create the boiler plate in the index.html file you created during setup.
 * Link the style.css file you created during setup in your index.html file.
 * Create a HTML structure using semantic elements.
@@ -88,6 +97,8 @@ Below are the very broad directions to finishing the clone of the image in the '
 * Inside index.html, create your index.html boiler plate.
   * solution
 * Inside index.html, link the index.html file to the style.css file using a `<link>` tag.
+  * solution
+* Inside `index.html`, link the index.html file to the reset.css file using a `<link>` tag.
   * solution
 * Inside index.html, inside the body create a section using the `<section>` tag. Give it a class name and close the section `</section>.`
   * solution
@@ -122,6 +133,8 @@ Below are the very broad directions to finishing the clone of the image in the '
 * Open 'third' folder.
 * Create a index.html file inside the 'third' folder.
 * Create a style.css file inside the 'third' folder.
+* Create a `reset.css` file inside of the 'third' folder.
+* Add reset css styles into `reset.css`.
 * Create the boiler plate in the index.html file you created during setup.
 * Link the style.css file you created during setup in your index.html file.
 * Create a HTML structure using semantic elements.
@@ -133,6 +146,8 @@ Below are the very broad directions to finishing the clone of the image in the '
 * Inside index.html, create your index.html boiler plate.
   * solution
 * Inside index.html, link the index.html file to the style.css file using a <link> tag.
+  * solution
+* Inside `index.html`, link the index.html file to the style.css file using a `<link>` tag.
   * solution
 * Inside index.html, inside the body create a header using the `<header>` tag. Give it a class name and close the header with a closing `</header>` tag.
   * solution
