@@ -1,24 +1,152 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title> Hello World</title>
-		<link rel="style.css" href="./css/master.css">
-	</head>
-	<body>
-		<main>
-			<header img src= "picture link">
-				<nav>
-					<div class="container">
-						<div class="row">
-							<div class="col1">
-								<img src="" alt="">
-							</div>
-							<div class="col2">
-								<img src="" alt="">
-							</div>
-					</div>
-				</nav>
-			</header>
-		</main>
-	</body>
-</html>
+/* Table of Content
+====================================
+	DOCUMENT
+	HEADER
+	NAV
+	MAIN
+	FOOTER
+
+/*---------------------------------*\
+	DOCUMENT
+\*---------------------------------*/
+
+/*Everything in the html do border-box*/
+* {
+	box-sizing: border-box;
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-weight: 300;
+}
+
+/*---------------------------------*\
+	HEADER
+\*---------------------------------*/
+
+header {
+	background-color: grey;
+	padding: 15px;
+	overflow: auto;
+}
+
+header div.container {
+	width: 25%;
+	margin: 0 auto;
+}
+
+.col1 {
+	float: left;
+}
+
+.col2 {
+	float: left;
+	padding-top: 10px;
+}
+
+header img {
+	width: 100px;
+	border-radius: 50%;
+	margin-right: 15px;
+	line-height: 200px;
+}
+
+header h1, header p {
+	margin: 0;
+}
+header h1 {
+	font-weight: 100;
+	font-size: 37px;
+	line-height: 30px;
+}
+
+header p {
+	margin-top: 5px;
+}
+
+/*---------------------------------*\
+	NAV
+\*---------------------------------*/
+
+nav {
+	background-color: #000;
+	text-align: center;
+	height: 40px;
+	line-height: 40px;
+}
+
+	nav ul {
+		margin: 0;
+		list-style-type: none;
+	}
+
+	nav li {
+		display: inline;
+		padding: 15px;
+	}
+
+	nav li:hover {
+		background: #444;
+	}
+
+	nav li a {
+		color: #fff;
+		text-decoration: none;
+	}
+
+/*---------------------------------*\
+	MAIN
+\*---------------------------------*/
+
+section {
+	clear: both;
+}
+
+section article {
+	float: left;
+	width: 85%;
+	padding: 25px;
+}
+
+/*show students how to inline-block then show them how to float left*/
+section .cards {
+	width: 40%;
+	height: 300px;
+	/*display: inline-block;*/
+	float: left;
+	background: gray;
+	margin-left: 5px;
+	margin-bottom: 10px;
+}
+
+section aside {
+	float: right;
+	width: 15%;
+	padding: 10px;
+	background-color: #444;
+	height: 100vh;
+	color: #fff;
+}
+
+	section aside a {
+		color: #fff;
+	}
+
+/*---------------------------------*\
+	FOOTER
+\*---------------------------------*/
+
+footer {
+	clear: both;
+	text-align: center;
+	background-color: #000;
+	height: 50px;
+	color: #fff;
+	line-height: 50px;
+}
+
+footer a {
+	color: #fff;
+}
