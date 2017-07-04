@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Hello World</title>
+		<link rel="style.css" href="./css/master.css">
+	</head>
+	<body>
+		<main>
+			<header img src= "picture link">
+				<nav>
+					<div class="container">
+						<div class="row">
+							<div class="col1">
+								<img src="" alt="">
+							</div>
+							<div class="col2">
+								<img src="" alt="">
+							</div>
+					</div>
+				</nav>
+			</header>
+		</main>
+	</body>
+</html>
