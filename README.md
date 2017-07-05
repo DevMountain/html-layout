@@ -40,34 +40,314 @@ Below are the very broad directions to finishing the clone of the image in the '
 
 ### Follow Along
 
-* Open `index.html`.
+* Open 'first' folder.
 * Create a reset.css file and add the reset styling in it.
-  * solution
+  *  <details>
+
+      <summary> <code> reset.css </code> </summary>
+
+      ```css
+      html, body, div, span, applet, object, iframe,
+      h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+      a, abbr, acronym, address, big, cite, code,
+      del, dfn, em, img, ins, kbd, q, s, samp,
+      small, strike, strong, sub, sup, tt, var,
+      b, u, i, center,
+      dl, dt, dd, ol, ul, li,
+      fieldset, form, label, legend,
+      table, caption, tbody, tfoot, thead, tr, th, td,
+      article, aside, canvas, details, embed,
+      figure, figcaption, footer, header, hgroup,
+      menu, nav, output, ruby, section, summary,
+      time, mark, audio, video {
+      	margin: 0;
+      	padding: 0;
+      	border: 0;
+      	font-size: 100%;
+      	font: inherit;
+      	vertical-align: baseline;
+      }
+
+      html {
+        box-sizing: border-box;
+      }
+      *, *:before, *:after {
+        box-sizing: inherit;
+      }
+      /* HTML5 display-role reset for older browsers */
+      article, aside, details, figcaption, figure,
+      footer, header, hgroup, menu, nav, section {
+      	display: block;
+      }
+      body {
+      	line-height: 1;
+      }
+      ol, ul {
+      	list-style: none;
+      }
+      blockquote, q {
+      	quotes: none;
+      }
+      blockquote:before, blockquote:after,
+      q:before, q:after {
+      	content: '';
+      	content: none;
+      }
+      table {
+      	border-collapse: collapse;
+      	border-spacing: 0;
+      }
+
+      ```
+
+      </details>
+* Open `index.html`.
 * Inside index.html, create your index.html boiler plate.
-  * solution
+  *  <details>
+
+      <summary> <code> index.html </code> </summary>
+
+      ```html
+      <!DOCTYPE html>
+      <html>
+        <head>
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>first Solution</title>
+        </head>
+        <body>
+        </body>
+      </html>
+      ```
+
+      </details>
 * Inside `index.html`, link the index.html file to the style.css file.
-  * solution
+  *  <details>
+
+      <summary> <code> index.html </code> </summary>
+
+      ```html
+      <!DOCTYPE html>
+      <html>
+        <head>
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>first Solution</title>
+          <link rel="stylesheet" href="style.css">
+        </head>
+        <body>
+        </body>
+      </html>
+      ```
+
+      </details>
 * Inside `index.html`, link the index.html file to the reset.css file. Be sure to insert this link before the style.css.
-  * solution
+  *  <details>
+
+      <summary> <code> index.html </code> </summary>
+
+      ```html
+      <!DOCTYPE html>
+      <html>
+        <head>
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>first Solution</title>
+          <link rel="stylesheet" href="reset.css">
+          <link rel="stylesheet" href="style.css">
+        </head>
+        <body>
+        </body>
+      </html>
+      ```
+
+      </details>
 * Inside index.html, in the `body` tags create header. Give it a class so that we can style it later. Close your header tag.
-  * solution
+  *  <details>
+
+      <summary> <code> index.html </code> </summary>
+
+      ```html
+      <!DOCTYPE html>
+      <html>
+        <head>
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>first Solution</title>
+          <link rel="stylesheet" href="reset.css">
+          <link rel="stylesheet" href="style.css">
+        </head>
+        <body>
+          <header class="header"></header>
+        </body>
+      </html>
+      ```
+
+      </details>
 * Inside index.html, below the closing header tag create a aside section. Give it a class name. Close your aside tag.
-  * solution
+  * <details>
+
+      <summary> <code> index.html </code> </summary>
+
+      ```html
+      <!DOCTYPE html>
+      <html>
+        <head>
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>first Solution</title>
+          <link rel="stylesheet" href="reset.css">
+          <link rel="stylesheet" href="style.css">
+        </head>
+        <body>
+          <header class="header"></header>
+          <aside class="side-bar"></aside>
+        </body>
+      </html>
+      ```
+
+      </details>
 * Inside index.html, below the closing aside tag create a main section. Give it a class name and close the main section.
-  * solution
+  * <details>
+
+      <summary> <code> index.html </code> </summary>
+
+      ```html
+      <!DOCTYPE html>
+      <html>
+        <head>
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>first Solution</title>
+          <link rel="stylesheet" href="reset.css">
+          <link rel="stylesheet" href="style.css">
+        </head>
+        <body>
+          <header class="header"></header>
+          <aside class="side-bar"></aside>
+          <main class="main">
+
+          </main>
+        </body>
+      </html>
+      ```
+
+      </details>
 * Inside index.html, inside your main section add a div. Give it a class name and do forget to close the div.
-  * solution
+  * <details>
+
+      <summary> <code> index.html </code> </summary>
+
+      ```html
+      <!DOCTYPE html>
+      <html>
+        <head>
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>first Solution</title>
+          <link rel="stylesheet" href="reset.css">
+          <link rel="stylesheet" href="style.css">
+        </head>
+        <body>
+          <header class="header"></header>
+          <aside class="side-bar"></aside>
+          <main class="main">
+            <div class="main-footer"></div>
+          </main>
+        </body>
+      </html>
+      ```
+
+      </details>
 * Inside index.html, below the closing main tag create another aside section. Give it the same class name as the previous aside tag and close the aside section.
-  * solution
+  * <details>
+
+      <summary> <code> index.html </code> </summary>
+
+      ```html
+      <!DOCTYPE html>
+      <html>
+        <head>
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>first Solution</title>
+          <link rel="stylesheet" href="reset.css">
+          <link rel="stylesheet" href="style.css">
+        </head>
+        <body>
+          <header class="header"></header>
+          <aside class="side-bar"></aside>
+          <main class="main">
+            <div class="main-footer"></div>
+          </main>
+          <aside class="side-bar"></aside>
+        </body>
+      </html>
+      ```
+
+      </details>
 * Open `style.css`.
 * Inside style.css, select the header by class and give it a height and background color.
-  * solution
+  * details>
+
+      <summary> <code> style.css </code> </summary>
+
+      ```css
+      .header{
+        background: #444444;
+        height: 20vh;
+      }
+      ```
+
+      </details>
 * Inside style.css, select the aside sections by class and give them a height, width, background color, and make them float to the left side of the page.
-  * solution
+  * details>
+
+      <summary> <code> style.css </code> </summary>
+
+      ```css
+      .side-bar{
+        height: 80vh;
+        width: 15%;
+        background: #D8D8D8;
+        float: left;
+      }
+      ```
+
+      </details>
 * Inside style.css, select the main section by class and give it a height, width, background color, position, and make it float to the left side of the page.
-  * solution
+  * details>
+
+      <summary> <code> style.css </code> </summary>
+
+      ```css
+      .main{
+        height: 80vh;
+        width: 70%;
+        background: #EFEFEF;
+        position: relative;
+        float: left;
+      }
+      ```
+
+      </details>
 * Inside style.css, select the div inside the main section by class and give it a height, width, background color, position, bottom property, and left property.
-  * solution
+  * details>
+
+      <summary> <code> style.css </code> </summary>
+
+      ```css
+      .main-footer{
+        height: 20%;
+        width: 100%;
+        background: #222222;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+      }
+      ```
+
+      </details>
 
 ### Solution
 
@@ -78,7 +358,7 @@ Below are the very broad directions to finishing the clone of the image in the '
 
 ### Directions
 
-Below are the very broad directions to finishing the clone of the image in the 'second' folder. If you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept. Have Fun!
+Below are the very broad directions to finishing the clone of the image in the 'second' folder. We encourage you to try to finish this project with as little help as possible. But if you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept. Good luck!
 
 * Open 'second' folder.
 * Create a html file named `index.html` inside of the 'second' folder.
@@ -133,7 +413,7 @@ Below are the very broad directions to finishing the clone of the image in the '
 
 ### Directions
 
-Below are the very broad directions to finishing the clone of the image in the 'third' folder. If you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept. Have Fun!
+Below are the very broad directions to finishing the clone of the image in the 'third' folder. We encourage you to try to finish this project with as little help as possible. But if you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept.. Have Fun!
 
 * Open 'third' folder.
 * Create a index.html file inside the 'third' folder.
