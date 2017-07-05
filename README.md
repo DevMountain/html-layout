@@ -377,7 +377,7 @@ Below are the very broad directions to finishing the clone of the image in the '
 ```
 
 </details>
-details>
+<details>
 
 <summary> <code> style.css </code> </summary>
 
@@ -1203,6 +1203,8 @@ Below are the very broad directions to finishing the clone of the image in the '
     </details>
 
 ### Solution
+
+<details>
 
 <summary> <code> index.html </code> </summary>
 
