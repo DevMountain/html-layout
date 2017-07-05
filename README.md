@@ -288,71 +288,131 @@ Below are the very broad directions to finishing the clone of the image in the '
       </details>
 * Open `style.css`.
 * Inside style.css, select the header by class and give it a height and background color.
-  * details>
+  * <details>
 
-      <summary> <code> style.css </code> </summary>
+    <summary> <code> style.css </code> </summary>
 
-      ```css
-      .header{
-        background: #444444;
-        height: 20vh;
-      }
-      ```
+    ```css
+    .header{
+      background: #444444;
+      height: 20vh;
+    }
+    ```
 
-      </details>
+    </details>
 * Inside style.css, select the aside sections by class and give them a height, width, background color, and make them float to the left side of the page.
-  * details>
+  * <details>
 
-      <summary> <code> style.css </code> </summary>
+    <summary> <code> style.css </code> </summary>
 
-      ```css
-      .side-bar{
-        height: 80vh;
-        width: 15%;
-        background: #D8D8D8;
-        float: left;
-      }
-      ```
+    ```css
+    .side-bar{
+      height: 80vh;
+      width: 15%;
+      background: #D8D8D8;
+      float: left;
+    }
+    ```
 
-      </details>
+    </details>
 * Inside style.css, select the main section by class and give it a height, width, background color, position, and make it float to the left side of the page.
-  * details>
+  * <details>
 
-      <summary> <code> style.css </code> </summary>
+    <summary> <code> style.css </code> </summary>
 
-      ```css
-      .main{
-        height: 80vh;
-        width: 70%;
-        background: #EFEFEF;
-        position: relative;
-        float: left;
-      }
-      ```
+    ```css
+    .main{
+      height: 80vh;
+      width: 70%;
+      background: #EFEFEF;
+      position: relative;
+      float: left;
+    }
+    ```
 
-      </details>
+    </details>
 * Inside style.css, select the div inside the main section by class and give it a height, width, background color, position, bottom property, and left property.
-  * details>
+  * <details>
 
-      <summary> <code> style.css </code> </summary>
+    <summary> <code> style.css </code> </summary>
 
-      ```css
-      .main-footer{
-        height: 20%;
-        width: 100%;
-        background: #222222;
-        position: absolute;
-        bottom: 0;
-        left: 0;
-      }
-      ```
+    ```css
+    .main-footer{
+      height: 20%;
+      width: 100%;
+      background: #222222;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+    }
+    ```
 
-      </details>
+    </details>
 
 ### Solution
 
-* html solution
-* css solution
+<details>
+
+<summary> <code> index.html </code> </summary>
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>first Solution</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header class="header"></header>
+    <aside class="side-bar"></aside>
+    <main class="main">
+      <div class="main-footer"></div>
+    </main>
+    <aside class="side-bar"></aside>
+  </body>
+</html>
+```
+
+</details>
+details>
+
+  <summary> <code> style.css </code> </summary>
+
+  ```css
+  .header{
+    background: #444444;
+    height: 20vh;
+  }
+
+  .side-bar{
+    height: 80vh;
+    width: 15%;
+    background: #D8D8D8;
+    float: left;
+  }
+
+  .main{
+    height: 80vh;
+    width: 70%;
+    background: #EFEFEF;
+    position: relative;
+    float: left;
+  }
+
+  .main-footer{
+    height: 20%;
+    width: 100%;
+    background: #222222;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+  ```
+
+  </details>
 
 ## Second
 
