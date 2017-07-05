@@ -4,25 +4,25 @@
 }
 
 .side-bar{
-  float: left;
   height: 80vh;
   width: 15%;
   background: #D8D8D8;
+  float: left;
 }
 
 .main{
-  float: left;
   height: 80vh;
   width: 70%;
   background: #EFEFEF;
   position: relative;
+  float: left;
 }
 
 .main-footer{
-  position: absolute;
-  bottom: 0;
-  left: 0;
   height: 20%;
   width: 100%;
   background: #222222;
+  position: absolute;
+  bottom: 0;
+  left: 0;
 }

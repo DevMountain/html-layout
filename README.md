@@ -41,33 +41,32 @@ Below are the very broad directions to finishing the clone of the image in the '
 ### Follow Along
 
 * Open `index.html`.
+* Create a reset.css file and add the reset styling in it.
+  * solution
 * Inside index.html, create your index.html boiler plate.
-  Be sure to include:
-  * Document type declaration
-  * etc.
   * solution
-* Inside `index.html`, link the index.html file to the style.css file using a `<link>` tag.
+* Inside `index.html`, link the index.html file to the style.css file.
   * solution
-* Inside `index.html`, link the index.html file to the reset.css file using a `<link>` tag. Be sure to insert this link before the style.css.
+* Inside `index.html`, link the index.html file to the reset.css file. Be sure to insert this link before the style.css.
   * solution
 * Inside index.html, in the `body` tags create header. Give it a class so that we can style it later. Close your header tag.
   * solution
 * Inside index.html, below the closing header tag create a aside section. Give it a class name. Close your aside tag.
   * solution
-* Inside index.html, below the closing aside tag create a `main` section. Give it a class name and close the `main` tag.
+* Inside index.html, below the closing aside tag create a main section. Give it a class name and close the main section.
   * solution
-* Inside index.html, inside your main section tags add a div using the `<div>` tag. Give it a class name and do forget to close the div tag `</div>`.
+* Inside index.html, inside your main section add a div. Give it a class name and do forget to close the div.
   * solution
-* Inside index.html, below the closing main tag create another aside section using the `<aside>` tag. Give it the same class name as the previous aside tag and close the aside tag `</aside>`.
+* Inside index.html, below the closing main tag create another aside section. Give it the same class name as the previous aside tag and close the aside section.
   * solution
 * Open `style.css`.
-* Inside style.css, select the header by class and give it a height, width, and background color.
+* Inside style.css, select the header by class and give it a height and background color.
   * solution
-* Inside style.css, select the aside sections by class and give the a height, width, background color, and display property.
+* Inside style.css, select the aside sections by class and give them a height, width, background color, and make them float to the left side of the page.
   * solution
-* Inside style.css, select the main section by class and give it a height, width, background color, position, and display property.
+* Inside style.css, select the main section by class and give it a height, width, background color, position, and make it float to the left side of the page.
   * solution
-* Inside style.css, select the div inside the main section by class and give it a height, width, background color, position, and bottom property.
+* Inside style.css, select the div inside the main section by class and give it a height, width, background color, position, bottom property, and left property.
   * solution
 
 ### Solution
@@ -82,7 +81,7 @@ Below are the very broad directions to finishing the clone of the image in the '
 Below are the very broad directions to finishing the clone of the image in the 'second' folder. If you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept. Have Fun!
 
 * Open 'second' folder.
-* Create a html file name `index.html` inside of the 'second' folder.
+* Create a html file named `index.html` inside of the 'second' folder.
 * Create css file named `style.css` inside of the 'second' folder.
 * Create a `reset.css` file inside of the 'second' folder.
 * Add reset css styles into `reset.css`.
@@ -93,29 +92,35 @@ Below are the very broad directions to finishing the clone of the image in the '
 
 ### Follow Along
 
+* Open 'second' folder.
+* Create a html file named `index.html` inside of the 'second' folder.
+* Create css file named `style.css` inside of the 'second' folder.
+* Create a `reset.css` file inside of the 'second' folder.
+* Add reset css styles into `reset.css`.
+  * solution
 * Open `index.html`.
 * Inside index.html, create your index.html boiler plate.
   * solution
-* Inside index.html, link the index.html file to the style.css file using a `<link>` tag.
+* Inside index.html, link the index.html file to the style.css file.
   * solution
-* Inside `index.html`, link the index.html file to the reset.css file using a `<link>` tag.
+* Inside `index.html`, link the index.html file to the reset.css file. Make sure it's linked before your `style.css` file.
   * solution
-* Inside index.html, inside the body create a section using the `<section>` tag. Give it a class name and close the section `</section>.`
+* Inside index.html, inside the body create a section. Give it two class names. One that will be the same as the next couple of sections. And another that will be unique and differentiate it from the other sections by background color. This will allow us to not repeat ourselves. Close the section.
   * solution
-* Inside index.html, below the section you made in the previous step create another section using the `<section>` tag. Give it a different class name and close the section with a closing section tag `</section>`.
+* Inside index.html, below the section you made in the previous step create another section. Give it two class names as well, one will be the same as the previous section and the other will be different according to the background color.
   * solution
-* Inside index.html, below the section you made in the previous step create a third section using the `<section>` tag. Give it a class name and don't forget to close your section with a closing section tag `</section>`.
+* Inside index.html, below the section you made in the previous step create a third section. Give it two class names as well, one will be the same as the previous sections and the other will be different according to the background color.
   * solution
-* Inside index.html, inside the third section tags create a image element using the `<img>` tag. Give it a class name so we can style it later.
+* Inside index.html, inside the third section tags create a image element. Give it a class name so we can style it later.
   * solution
 * Open `style.css`.
-* Inside style.css, select the first section by class and give it a height, width, background color, a display property.
+* Inside style.css, select the sections by their similar class and give them a height, width, and another property that will make them float the the left.
   * solution
-* Inside style.css, select the second section by class and give it a height, width, background color, and display property.
+* Inside style.css, select each of the sections by their unique class name and add a property to change their background color.
   * solution
-* Inside style.css, select the third section by class and give it a height, width, background color, position, and display property.
+* Inside style.css, select the green section by its unique class and give it a position so that we can later move its children in relation to it.
   * solution
-* Inside style.css, select the image by class and give it a height, width, position, and bottom property.
+* Inside style.css, select the image by class and give it a height, width, position, bottom property, and left property.
   * solution
 
 
@@ -142,37 +147,42 @@ Below are the very broad directions to finishing the clone of the image in the '
 
 ### Follow Along
 
+* Open 'third' folder.
+* Create a index.html file inside the 'third' folder.
+* Create a style.css file inside the 'third' folder.
+* Create a reset.css file inside of the 'third' folder.
+* Add reset css styles into `reset.css`.
 * Open `index.html`.
 * Inside index.html, create your index.html boiler plate.
   * solution
-* Inside index.html, link the index.html file to the style.css file using a <link> tag.
+* Inside index.html, link the index.html file to the style.css file.
   * solution
-* Inside `index.html`, link the index.html file to the style.css file using a `<link>` tag.
+* Inside index.html, link the index.html file to the reset.css file. Make sure it is linked before your style.css file.
   * solution
-* Inside index.html, inside the body create a header using the `<header>` tag. Give it a class name and close the header with a closing `</header>` tag.
+* Inside index.html, inside the body create a header. Give it a class name and close the header.
   * solution
-* Inside index.html, inside the header create a div using the `<div>` tag and give it a class name so we can style it later. Close the div with a closing `</div>` tag.
+* Inside index.html, inside the header create a div and give it a class name so we can style it later. Close the div.
   * solution
-* Inside index.html, below the header element create a main section using the `<main>` tag. Give it a class name and close the main section with a closing `</main>` tag.
+* Inside index.html, below the header element create a main section. Give it a class name and close the main section.
   * solution
-* Inside  index.html, inside the main section you created in the previous step create a paragraph using a `<p>` tag. Add the same text you see in the image provided inside the `<p>` tag. Give it a class name and close the paragraph using a closing `</p>` tag.
+* Inside  index.html, inside the main section you created in the previous step create a paragraph. Add the same text you see in the image provided. Give it a class name and close the paragraph.
   * solution
-* Inside index.html, below the main section create four sections one after the other using the `<section>` tag and close each of them using a closing `</section>` tag. Give each of the section the same class name.
+* Inside index.html, below the main section create four sections one after the other and close each of them. Give each of the section the same class name.
   * solution
-* Inside index.html, for each of the four sections you created in the previous step give each one a unique id.
+* Inside index.html, for each of the four sections you created in the previous step give each one a second unique class name that will differentiate them by background color.
   * solution
 * Open `style.css`.
-* Inside style.css, select the header by class and give it a height, width, and background color.
+* Inside style.css, select the header by class and give it a height, width, background color, and padding.
   * solution
-* Inside style.css, select the div inside the header by class and give it a height, width, float, and margin property.
+* Inside style.css, select the div inside the header by class name and give it a height, width, background color, and margin property.
   * solution
-* Inside style.css, select the main section by class and give it a height, and padding property.
+* Inside style.css, select the main section by class and give it some padding.
   * solution
-* Inside style.css, select the text inside the main section by class and give it a font-size property.
+* Inside style.css, select the text inside the main section by class and give it font-size, line height, font family, and a margin to add some space between it and the elements below it.
   * solution
-* Inside style.css, select the lower four sections by class and give them a height.
+* Inside style.css, select the lower four sections by their similar class name and give them a height.
   * solution
-* Inside style.css, select the lower four section by id individually and give each their corresponding background color.
+* Inside style.css, select the lower four section by their unique class name individually and give each their corresponding background color.
   * solution
 
 ### Solution
