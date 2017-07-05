@@ -379,40 +379,40 @@ Below are the very broad directions to finishing the clone of the image in the '
 </details>
 details>
 
-  <summary> <code> style.css </code> </summary>
+<summary> <code> style.css </code> </summary>
 
-  ```css
-  .header{
-    background: #444444;
-    height: 20vh;
-  }
+```css
+.header{
+  background: #444444;
+  height: 20vh;
+}
 
-  .side-bar{
-    height: 80vh;
-    width: 15%;
-    background: #D8D8D8;
-    float: left;
-  }
+.side-bar{
+  height: 80vh;
+  width: 15%;
+  background: #D8D8D8;
+  float: left;
+}
 
-  .main{
-    height: 80vh;
-    width: 70%;
-    background: #EFEFEF;
-    position: relative;
-    float: left;
-  }
+.main{
+  height: 80vh;
+  width: 70%;
+  background: #EFEFEF;
+  position: relative;
+  float: left;
+}
 
-  .main-footer{
-    height: 20%;
-    width: 100%;
-    background: #222222;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-  }
-  ```
+.main-footer{
+  height: 20%;
+  width: 100%;
+  background: #222222;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+```
 
-  </details>
+</details>
 
 ## Second
 
