@@ -1,11 +1,15 @@
 .body {
-	font-size: 16px;
+	font-size: 14px;
 	padding: 0;
 	margin: 0;
 }
 
+.nav {
+	background-color: lightgrey;
+	height: 15 vh;
+}
 #div1 {
-	height : 30vh;
+	height : 25vh;
 	width: 100%;
 }
 .aside {
