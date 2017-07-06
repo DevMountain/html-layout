@@ -1,178 +1,34 @@
-<<<<<<< HEAD
-.container {
-  position: relative;
-}
-.nav {
-  position: absolute;
-  left: 0px;
-  width: 200px;
-}
-.body {
-  margin-bottom: 120px;
-}
-.section {
-  /* position is static by default */
-  margin-left: 200px;
-	background-color: blue
-}
-.footer {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  height: 70px;
-  background-color: green;
-  width: 100%;
-=======
-/* Table of Content
-====================================
-	DOCUMENT
-	HEADER
-	NAV
-	MAIN
-	FOOTER
-
-/*---------------------------------*\
-	DOCUMENT
-\*---------------------------------*/
-
-/*Everything in the html do border-box*/
 * {
-	box-sizing: border-box;
-}
-
-html, body {
-	margin: 0;
+	font-size: 16px;
 	padding: 0;
-	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-	font-weight: 300;
-}
-
-/*---------------------------------*\
-	HEADER
-\*---------------------------------*/
-
-header {
-	background-color: grey;
-	padding: 15px;
-	overflow: auto;
-}
-
-header div.container {
-	width: 25%;
-	margin: 0 auto;
-}
-
-.col1 {
-	float: left;
-}
-
-.col2 {
-	float: left;
-	padding-top: 10px;
-}
-
-header img {
-	width: 100px;
-	border-radius: 50%;
-	margin-right: 15px;
-	line-height: 200px;
-}
-
-header h1, header p {
 	margin: 0;
 }
-header h1 {
-	font-weight: 100;
-	font-size: 37px;
-	line-height: 30px;
+
+#div1 {
+	height : 30vh
+	width: 100%
 }
 
-header p {
-	margin-top: 5px;
+#div2{
+	height: 15vh
+	background-color: green
+	width: 100%
 }
 
-/*---------------------------------*\
-	NAV
-\*---------------------------------*/
-
-nav {
-	background-color: #000;
-	text-align: center;
-	height: 40px;
-	line-height: 40px;
+#div3 {
+	height: 15vh
+	background-color: yellow
+	width: 100%
 }
 
-	nav ul {
-		margin: 0;
-		list-style-type: none;
-	}
-
-	nav li {
-		display: inline;
-		padding: 15px;
-	}
-
-	nav li:hover {
-		background: #444;
-	}
-
-	nav li a {
-		color: #fff;
-		text-decoration: none;
-	}
-
-/*---------------------------------*\
-	MAIN
-\*---------------------------------*/
-
-section {
-	clear: both;
+#div4 {
+	height: 15vh
+	background-color: lightblue
+	width: 100%
 }
 
-section article {
-	float: left;
-	width: 85%;
-	padding: 25px;
-}
-
-/*show students how to inline-block then show them how to float left*/
-section .cards {
-	width: 40%;
-	height: 300px;
-	/*display: inline-block;*/
-	float: left;
-	background: gray;
-	margin-left: 5px;
-	margin-bottom: 10px;
-}
-
-section aside {
-	float: right;
-	width: 15%;
-	padding: 10px;
-	background-color: #444;
-	height: 100vh;
-	color: #fff;
-}
-
-	section aside a {
-		color: #fff;
-	}
-
-/*---------------------------------*\
-	FOOTER
-\*---------------------------------*/
-
-footer {
-	clear: both;
-	text-align: center;
-	background-color: #000;
-	height: 50px;
-	color: #fff;
-	line-height: 50px;
-}
-
-footer a {
-	color: #fff;
->>>>>>> 9d673724d9bca5bb3a502f350e4b8c72ef83e684
+#div5 {
+	height: 15vh
+	background-color: orange
+	width: 100%
 }
