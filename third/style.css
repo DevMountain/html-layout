@@ -8,6 +8,14 @@
 	height : 30vh
 	width: 100%
 }
+.aside {
+	padding-left: 10%
+	padding-right: 70%
+	height: 20vh
+	bottom: 5vh
+	top: 5vh
+	margin: auto
+}
 
 #div2{
 	height: 15vh
