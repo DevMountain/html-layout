@@ -1,3 +1,27 @@
 * {
 	background-color: red;
 }
+
+.col_left{
+	width: 33vw;
+	height: 100vh;
+	justify-content: flex-start;
+	display: flex;
+	background-color: yellow
+}
+
+.col_mid{
+	width: 33vw;
+	height: 100vh;
+	justify-content: center;
+	display: flex;
+	background-color: blue
+}
+
+.col_right{
+	width: 33vw;
+	height: 100vh;
+	justify-content: flex-end;
+	display: flex;
+	background-color: orange
+}

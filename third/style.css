@@ -2,39 +2,6 @@
 	padding: 0;
 	margin: 0;
 }
-
-#div1 {
-	height : 15%;
-	width: 100%;
-	font-family: sans-serif;
-	display: inline-block;
-	background-color: #FFFFFF;
-}
-
-#div2{
-	height: 16%;
-	background-color: #6495ED;
-	width: 100%;
-}
-
-#div3 {
-	height: 15vh;
-	background-color: #40E0D0;
-	width: 100vh;
-}
-
-#div4 {
-	height: 15vh;
-	background-color: #9ACD32;
-	width: 100vh;
-}
-
-#div5 {
-	height: 15vh;
-	background-color: #FFD700;
-	width: 100vh;
-}
-
 .div1 {
 	background-color: black;
 	height: 100vh;
