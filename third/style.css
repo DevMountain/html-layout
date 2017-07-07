@@ -3,27 +3,26 @@
 	margin: 0;
 }
 .div1 {
-	background-color: black;
+	background-color: cornflowerblue;
 	height: 100vh;
 	width: 30vw;
 	display: inline-block;
-	margin-right: -4px
 	}
 	.div2 {
-		background-color: green;
+		background-color: limegreen;
 		height: 100vh;
 		width: 30vw;
 		display: inline-block;
 	}
 .div3 {
-	background-color: orange;
+	background-color: gold;
 	height: 100vh;
 	width: 30vw;
 	display: inline-block;
 	position: absolute;
 }
 .div4 {
-	background-color: red;
+	background-color: whitesmoke;
 	height: 25vh;
 	width: 30vw;
 	bottom: 0; right: 0;
