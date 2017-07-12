@@ -1,0 +1,40 @@
+.body{
+	margin: 0;
+	background-color: clear;
+	font-family: Arial;
+}
+
+.col_left{
+	width: 33vw;
+	height: 100vh;
+	justify-content: flex-start;
+	display: flex;
+	background-color: #5ca7ff;
+}
+
+.col_mid{
+	width: 33vh;
+	height: 100vh;
+	justify-content: center;
+	display: flex;
+	background-color: #66ffff;
+}
+
+.col_right {
+	width: 33vw;
+	height: 75vh;
+	justify-content: flex-end;
+	display: inline-block;
+	background-color: #ccff99;
+}
+
+.image {
+	width: 33vw;
+	diplay: flex;
+	background-color: red;
+	color: white;
+	height: 25vh;
+	font-family: arial;
+	font-size: 175%;
+	display: inline-block
+}

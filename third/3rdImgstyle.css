@@ -1,0 +1,51 @@
+.body {
+	padding: 0;
+	margin: 0;
+}
+.greyband {
+	background-color: lightgrey;
+	height: 10vh;
+	width: 100vw;
+	display: inline-block;
+	}
+.bluelogo {
+		position: absolute;
+		top: 30%; left: 40%;
+		height: 8vh;
+		width: 8vw;
+		transform: translateX(-10%) translateY(-5%);
+		color: white;
+		background-color: cornflowerblue;
+	}
+.textbox {
+	font-family: Arial;
+	height: 30vh;
+	width: 100vw;
+	text-align: justified;
+	word-wrap: normal;
+}
+.blueband {
+	background-color: cornflowerblue;
+	height: 15vh;
+	width: 100vw;
+	display: inline-block;
+	}
+.turqoiseband {
+		background-color: #66ffff;
+		height: 15vh;
+		width: 100vw;
+		display: inline-block;
+	}
+.mintband {
+	background-color: #ccff99;
+	height: 15vh;
+	width: 100vw;
+	display: inline-block;
+	position: absolute;
+}
+.ashwhiteband{
+	background-color: #FFFF00;
+	height: 15vh;
+	width: 100vw;
+	display: inline-block;
+}
