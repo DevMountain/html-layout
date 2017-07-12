@@ -1,0 +1,25 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.nav{
+	background-color: #555;
+	height: 20vh;
+}
+.container{
+	background-color: #ccc;
+	height: 80vh;
+}
+.marg_60{
+	width: 60%;
+	margin: auto;
+}
+.middle_column{
+	background-color: white;
+	height: 90%;
+}
+.middle_footer{
+	background-color: #222;
+	height: 10%;
+}
