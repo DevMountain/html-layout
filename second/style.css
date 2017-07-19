@@ -1,0 +1,26 @@
+.panel{
+  float:left;
+  width: 33.33%;
+  height: 100vh;
+}
+
+.blue{
+  background: #4A90E2;
+}
+
+.aqua{
+  background: #50E3C2;
+}
+
+.green{
+  background: #B8E986;
+  position: relative;
+}
+
+.image{
+  width: 100%;
+  height: auto;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}

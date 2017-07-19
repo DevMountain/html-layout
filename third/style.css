@@ -1,0 +1,44 @@
+.header{
+  height: 19vh;
+  width: 100%;
+  background: #D8D8D8;
+  padding: 10px;
+}
+
+.blue-box{
+  height: 16vh;
+  width: 16vh;
+  background: #4A90E2;
+  margin-left: 10px;
+}
+
+.main{
+  padding: 80px;
+}
+
+.text{
+  font-size: 1.75rem;
+  line-height: 40px;
+  margin-bottom: 40px;
+  font-family: sans-serif;
+}
+
+.bottom-bar{
+  height: 27vh;
+}
+
+.blue{
+  background: #4A90E2;
+}
+
+.aqua{
+  background: #50E3C2;
+}
+
+.green{
+  background: #B8E986;
+}
+
+.yellow{
+  background: #F8E71C;
+}
