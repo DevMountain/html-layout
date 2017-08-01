@@ -2,7 +2,7 @@
 
 # Project Summary
 
-In this project, you will re-create three different layouts using HTML and CSS. Each layout is broken into a different folder. Inside each layout's folder you'll find an `index.html`, `index.css`, and an image file. The goal is to get as close as possible to the given design. Use the given image as reference.
+In this project, you will re-create three different layouts using HTML and CSS. Each layout is broken into a different folder. Inside each layout's folder you'll find an `index.html`, `index.css`, and an image file. The goal is to get as close as possible to the given design. Use the given image as a reference.
 
 Since there are so many ways you can create the layout with HTML and CSS there will not be a guide. However, if you get stuck, there will be an included solution to help you.
 
