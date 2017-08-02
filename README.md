@@ -6,6 +6,8 @@ In this project, you will re-create three different layouts using HTML and CSS. 
 
 Since there are so many ways you can create the layout with HTML and CSS, there will not be a guide. However, if you get stuck, there will be an included solution to help you.
 
+As stated before, your code doesn't need to match the solution exactly, but it should match the provided image as closely as possible.
+
 ## Contributions
 
 If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch.
