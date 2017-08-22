@@ -1,0 +1,48 @@
+body {
+    margin: 0px;
+}
+
+p {
+    font-family: Abel;
+}
+
+.header {
+    background-color: #D8D8D8;
+    padding: 25px;
+}
+
+.logo {
+    background-color: #4A90E2;
+    height: 50px;
+    width: 50px;
+    margin: 0px;
+}
+
+.box1 {
+    background-color: white;
+    padding: 60px 55px;
+}
+
+.box2 {
+    background-color: #4A90E2;
+    height: 100px;
+    width: 100%;
+}
+
+.box3 {
+    background-color: #50E3C2;
+    height: 100px;
+    width: 100%;
+}
+
+.box4 {
+    background-color: #B8E986;
+    height: 100px;
+    width: 100%;
+}
+
+.box5 {
+    background-color: #F8E71C;
+    height: 100px;
+    width: 100%;
+}

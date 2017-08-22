@@ -1,0 +1,51 @@
+body {
+    margin: 0px;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-weight: 200;
+    color: white;
+    font-size: 22pt;
+}
+
+.text {
+    height: 100%;
+    margin: 0px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue {
+    background-color: #4A90E2;
+    height: 100vh;
+    width: 33.33333%;
+    float: left;
+    margin: 0px;
+}
+
+.aqua {
+    background-color: #50E3C2;
+    height: 100vh;
+    width: 33.33333%;
+    float: left;
+    margin: 0px;
+}
+
+.green {
+    background-color: #B8E986;
+    height: 100vh;
+    width: 33.33333%;
+    float: left;
+    margin: 0px;
+}
+
+.img {
+    width: 33.33333%;
+    height: 30vh;
+    position: absolute;
+    bottom: 0;
+    background-color: red;
+}
