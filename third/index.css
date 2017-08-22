@@ -1,0 +1,51 @@
+body {
+	margin: 0;
+}
+
+#top {
+	height: 150px;
+	width: 100vw;
+	background-color: #DDDDDD; 
+}
+
+#insideTop {
+	position: relative;
+	left: 20px;
+	top: 25px;
+	height: 100px;
+	width: 100px;
+	background-color: #4A90E2;
+}
+
+#textSection {
+	width: 100%;
+	height: 200px;
+}
+
+p {
+	padding: 15px 30px;
+}
+
+#blue {
+	width: 100%;
+	height: 150px;
+	background-color: #4A90E2;
+}
+
+#green {
+	width: 100%;
+	height: 150px;
+	background-color: #50E3C2;
+}
+
+#lime {
+	width: 100%;
+	height: 150px;
+	background-color: #B8E986;
+}
+
+#yellow {
+	width: 100%;
+	height: 180px;
+	background-color: #F8E71C;
+}

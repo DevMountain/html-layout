@@ -1,0 +1,41 @@
+body {
+	margin: 0;
+}
+
+
+#container {
+	height: 1000px;
+	widows: 10px;
+	background-color: black;
+}
+
+#blue {
+	float: left;
+	height: 1000px;
+	width: 33.33%;
+	background-color: #4A90E2;
+}
+
+#green {
+	float: left;
+	height: 1000px;
+	width: 33.33%;
+	background-color: #50E3C2;
+}
+
+#yellow {
+	float: left;
+	height: 760px;
+	width: 33.33%;
+	background-color: #B8E986;
+}
+
+#red {
+	background-color: #D0041D;
+}
+
+img {
+	float: left;
+	height: 300px;
+	width: 33.33%;
+}
