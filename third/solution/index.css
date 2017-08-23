@@ -27,9 +27,6 @@ body, html {
 
 .row-2 {
   background-color: #fff;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   box-sizing: border-box;
   padding: 50px;
 }
