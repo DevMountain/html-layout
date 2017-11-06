@@ -1,51 +1,44 @@
-body {
+body, html {
 	margin: 0;
+	padding: 0;
 }
 
-#top {
-	height: 150px;
-	width: 100vw;
-	background-color: #DDDDDD; 
-}
-
-#insideTop {
-	position: relative;
-	left: 20px;
-	top: 25px;
+.row {
 	height: 100px;
-	width: 100px;
+	width: 100%;
+}
+
+.row-1 {
+	background-color: #D8D8D8;
+	padding: 25px;
+	box-sizing: border-box;
+}
+.blueBox {
+	width: 50px;
+	height: 50px;
 	background-color: #4A90E2;
 }
 
-#textSection {
-	width: 100%;
+.textSection {
 	height: 200px;
-}
-
-p {
-	padding: 15px 30px;
-}
-
-#blue {
 	width: 100%;
-	height: 150px;
+}
+.textContainer {
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+	padding: 50px;
+}
+
+.blue {
 	background-color: #4A90E2;
 }
-
-#green {
-	width: 100%;
-	height: 150px;
+.green {
 	background-color: #50E3C2;
 }
-
-#lime {
-	width: 100%;
-	height: 150px;
+.lime {
 	background-color: #B8E986;
 }
-
-#yellow {
-	width: 100%;
-	height: 180px;
+.yellow {
 	background-color: #F8E71C;
 }
