@@ -1,44 +1,44 @@
-body, html {
-	margin: 0;
-	padding: 0;
-}
+body {
+  margin: 0;
+  padding: 0; }
 
 .row {
-	height: 100px;
-	width: 100%;
-}
+  height: 15vh;
+  width: 100%; }
 
 .row-1 {
-	background-color: #D8D8D8;
-	padding: 25px;
-	box-sizing: border-box;
-}
+  height: 16vh;
+  background-color: #D8D8D8;
+  display: flex;
+  align-items: flex-end;
+  box-sizing: border-box; }
+
 .blueBox {
-	width: 50px;
-	height: 50px;
-	background-color: #4A90E2;
-}
+  display: flex;
+  align-self: flex-end;
+  width: 50px;
+  height: 50px;
+  margin: 0 0 5px 10px;
+  background-color: #4A90E2; }
 
 .textSection {
-	height: 200px;
-	width: 100%;
-}
+  height: 24vh;
+  width: 100%; }
+
 .textContainer {
-	display: flex;
-	align-items: center;
-	box-sizing: border-box;
-	padding: 50px;
-}
+  box-sizing: border-box;
+  padding: 50px; }
 
 .blue {
-	background-color: #4A90E2;
-}
+  background-color: #4A90E2; }
+
 .green {
-	background-color: #50E3C2;
-}
+  background-color: #50E3C2; }
+
 .lime {
-	background-color: #B8E986;
-}
+  background-color: #B8E986; }
+
 .yellow {
-	background-color: #F8E71C;
-}
+  background-color: #F8E71C; }
+
+/*# sourceMappingURL=index.css.map */

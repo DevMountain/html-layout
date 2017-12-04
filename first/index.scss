@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: blue;
+}
+
+.mainContainer div {
+  margin: auto;
+  align-content: center;
+  display: flex;
+}
+
+.header {
+  background-color: green;
+  height: 18vh;
+  width: 100%;
+}
+
+.main {
+  background-color: white;
+  height: 70vh;
+  width: 75%;
+}
+
+.footer {
+  background-color: yellow;
+  height: 12vh;
+  width: 75%;
+}
+
+
+

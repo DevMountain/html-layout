@@ -1,0 +1,87 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.row {
+	height: 15vh;
+	width: 100%;
+}
+
+.row-1 {
+	height: 16vh;
+	background-color: #D8D8D8;
+	display: flex;
+	align-items: flex-end;
+	box-sizing: border-box;
+}
+.blueBox {
+	display: flex;
+	align-self: flex-end;
+	width: 50px;
+	height: 50px;
+	margin: 0 0 5px 10px;
+	background-color: #4A90E2;
+}
+
+.textSection {
+	height: 24vh;
+	width: 100%;
+}
+.textContainer {
+	box-sizing: border-box;
+	padding: 50px;
+}
+
+.blue {
+	background-color: #4A90E2;
+}
+.green {
+	background-color: #50E3C2;
+}
+.lime {
+	background-color: #B8E986;
+}
+.yellow {
+	background-color: #F8E71C;
+}
+
+
+
+// $arr: (rgb(64, 125, 196), cyan, lime, yellow);
+// * {
+//     margin: 0;
+//     padding: 0;
+//     box-sizing: border-box;
+// }
+// #header {
+//     height: 10vh;
+//     width: 100vw;
+//     background-color: rgb(224, 224, 224);
+//     padding: 10px;
+// }
+// #logo {
+//     height: 100%;
+//     width: 80px;
+//     background-color: blue;
+//     margin-left: 15px;
+// }
+// .content {
+//     padding: 70px;
+//     font-family: sans-serif;
+//     color: grey;
+//     letter-spacing: 0.05em
+// }
+// .bars {
+//     height: 600px;
+//     background-color:grey;
+//     width: 100vw;
+    
+//     @for $i from 1 through 4 {
+//         div:nth-child(#{$i}) {
+//             height: 25%;
+//             width: 100%; 
+//             background-color: nth($arr, $i);
+//         }
+//     }
+// }

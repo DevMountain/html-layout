@@ -1,0 +1,30 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.mainContainer {
+	display: flex;
+}
+
+.col {
+	height: 100vh;
+	width: 33.33vw;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.green {
+	background-color: green;
+	height: 80vh;
+}
+
+img[alt="mountain"] {
+	height: 20vh;
+}
