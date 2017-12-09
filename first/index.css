@@ -1,0 +1,36 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html {
+    background: black;
+}
+
+body {
+    height: 1024px;
+    width: 1024px;
+    background-color: #D8D8D8;
+    margin: 0 auto;
+}
+
+.header {
+    background: #444444;
+    width: 1024px;
+    height: 170px;
+}
+
+.footer {
+    background: #222222;
+    width: 704px;
+    height: 80px;
+    margin: 0 auto;
+}
+
+.content {
+    background: #EFEFEF;
+    width: 704px;
+    margin: 0 auto;
+    height: 774px;
+}
