@@ -8,6 +8,26 @@ Since there are so many ways you can create the layout with HTML and CSS, there 
 
 As stated before, your code doesn't need to match the solution exactly, but it should match the provided image as closely as possible.
 
+## Resources
+
+<details>
+
+<summary> <code> HTML </code> </summary>
+
+* [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+</details>
+
+<details>
+  
+<summary><code> CSS </code></summary>
+
+* [Float and Clear](https://www.w3schools.com/css/css_float.asp)
+* [CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+* [The Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+
+</details>
+
 ## Contributions
 
 If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch.
