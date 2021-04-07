@@ -1,0 +1,41 @@
+/* <body>
+    <div class="graywithblue"></div>
+    <div class="text"></div>
+    <div class="blue"></div>
+    <div class="cyan"></div>
+    <div class="green"></div>
+    <div class="yellow"></div>
+</body> */
+
+body {
+    width: 100%;
+    height: vh;
+}
+
+.graywithblue {
+    width: 100%;
+}
+
+span {
+    
+}
+
+.text {
+
+}
+
+.blue {
+
+}
+
+.cyan {
+
+}
+
+.green {
+
+}
+
+.yellow {
+
+}
