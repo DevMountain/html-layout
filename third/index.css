@@ -7,35 +7,50 @@
     <div class="yellow"></div>
 </body> */
 
-body {
-    width: 100%;
-    height: vh;
+body, html {
+    margin: 0;
+    padding: 0;
 }
+.row {
+    height: 100px;
+    width: 100vw;
+}
+
+.rowbig {
+    height: 200px;
+    width: 100vw;
+}
+
 
 .graywithblue {
-    width: 100%;
+    padding: 25px;
+    background-color: darkgray;
+    box-sizing: border-box;
 }
 
-span {
-    
+.bluebox {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
 }
 
-.text {
-
+.rowwithtext{
+    padding: 25px;
+    box-sizing: border-box;
 }
 
 .blue {
-
+    background-color: blue;
 }
 
 .cyan {
-
+    background-color: cyan;
 }
 
 .green {
-
+    background-color: green;
 }
 
 .yellow {
-
+    background-color: yellow;
 }
