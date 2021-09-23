@@ -14,13 +14,13 @@ body {
 .main-content {
   background-color: #EFEFEF;
   margin: 0 auto;
-  width: 75%;
+  width: 80%;
   height: 70vh;
 }
 
 .footer { 
   background-color: #222222;
   margin: 0 auto;
-  width: 75%;
+  width: 80%;
   height: 10vh;
 }
