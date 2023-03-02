@@ -1,0 +1,56 @@
+/* <body>
+    <div class="graywithblue"></div>
+    <div class="text"></div>
+    <div class="blue"></div>
+    <div class="cyan"></div>
+    <div class="green"></div>
+    <div class="yellow"></div>
+</body> */
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
+.row {
+    height: 100px;
+    width: 100vw;
+}
+
+.rowbig {
+    height: 200px;
+    width: 100vw;
+}
+
+
+.graywithblue {
+    padding: 25px;
+    background-color: darkgray;
+    box-sizing: border-box;
+}
+
+.bluebox {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+}
+
+.rowwithtext{
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.cyan {
+    background-color: cyan;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}

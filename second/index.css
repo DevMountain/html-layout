@@ -1,0 +1,81 @@
+body {
+    margin: 10px;
+    width: 100%;
+    height: 100vh;
+}
+
+.topdiv {
+    margin: auto;
+    width: 90%;
+    height: 25%;
+    border: solid black 10px;
+    padding: 7px;
+    box-sizing: border-box;
+}
+
+.purple {
+    background-color: purple;
+    height: 80%;
+    width: 5%;
+    display: inline-block;
+    margin-top: px;
+    margin-bottom: ;
+}
+
+.green {
+    background-color: green;
+    height: 95%;
+    width: 33%;
+    display: inline-block;
+    margin: 0 50px;
+}
+
+.blue {
+    background-color: blue;
+    height: 90%;
+    width: 11%;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 0 75px;
+}
+
+.middiv {
+    margin: 20px auto;
+    width: 90%;
+    height: 25%;
+    border: dotted black 10px;
+    padding: 7px;
+    box-sizing: border-box;
+}
+
+div>p {
+background-color: burlywood;
+margin: auto;
+margin-top: 25px;
+height: 75%;
+width: 80%;
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-sizing: border-box;
+}
+.botdiv{
+    margin: 20px auto;
+    height: 40%;
+    width: 40%;
+    border: solid black 1px;
+    padding: 150px;
+    box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.37);
+    -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.37);
+    -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.37);
+    box-sizing: border-box;
+}
+
+div>h1 {
+    border: black;
+    padding: auto;
+    color: navy;
+    text-align: center;
+    vertical-align: center;
+    box-sizing: border-box;
+}
